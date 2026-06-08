@@ -1,4 +1,4 @@
-# Animations Workspace
+# Animations Config files and Repo
 
 This repository is the master workspace for all animation projects. All project directories are tracked in this single repository, while build/node directories are ignored.
 
@@ -14,7 +14,9 @@ If you need to download only a specific project folder in the future instead of 
 ## ⚡ Workspace & Strategy Rules
 
 ### 1. Shared Resources, No Duplication
-Large geospatial files (e.g. `india.json` which is ~12MB) are stored once in the global `data/` folder and imported into projects relatively (e.g. `../../../data/usa.json`). This saves gigabytes of disk space and duplicate file management.
+Large geospatial files (e.g. `india.json` which is ~12MB) are stored once in the global `data/` folder and imported into projects relatively (e.g. `../../../data/usa.json`). This saves gigabytes of disk space and duplicate file management. This applies on shared code too -> You do not need to write subscriber animation in every project instead you can write once and use it in every project.
+
+One more thing -> If data folder becomes heavy in future -> store them in google drive and do not push this repo on github
 
 ### 2. Code Portability
 Individual projects reside in their own folders inside this workspace. If you want to deploy, share, or render a specific animation on a remote server/render farm, you can copy or clone just that individual project directory.
