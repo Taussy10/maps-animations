@@ -38,3 +38,9 @@ Large geospatial files (e.g. `india.json` which is ~12MB) are stored once in the
 
 ### 4. Code Portability
 Because individual projects are separate Git repositories, they remain self-contained. If you want to deploy, share, or render a specific animation on a remote server/render farm, you can push or clone just that individual project repository.
+
+### 5. btw we can not sharing images/media assets from diff folder to other folders cause In Remotion, static assets (images, audio, videos) must stay inside the local  public/  folder of each specific project directory.
+  
+### 6. We are not sharing temp/ folder cause they are majorly project specific and if you have a lot of problem then after completing animation delete them
+
+### 7. 
