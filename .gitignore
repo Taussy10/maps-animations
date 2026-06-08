@@ -1,9 +1,11 @@
-# By default everything will be ignored
-/*
+# Ignored projects (already have their own repositories)
+/usa-antartica/
+/usSamoa/
 
-# These files will not be ignored
-!/data/``
-!/prompt/
-!/.gitignore
-!/GEMINI.md
-!/README.md
+# Standard Node / Remotion / Build ignores for any future projects
+**/node_modules/
+**/out/
+**/temp/
+**/.cache/
+.DS_Store
+Thumbs.db

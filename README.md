@@ -1,47 +1,29 @@
 # Animations Workspace
 
-This repository serves as the master workspace for all animation projects. It uses a scalable, hybrid Git structure designed to handle 100s of Remotion animation projects efficiently.
+This repository is the master workspace for all animation projects. All project directories are tracked in this single repository, while build/node directories are ignored.
 
 ---
 
-## 🏗️ Workspace Strategy
-
-The workspace is organized into two parts:
-1. **Global/Shared Assets**: Centralized folders (`data/` and `prompt/`) and configurations (`GEMINI.md`, `README.md`) managed by this parent repository.
-2. **Independent Animation Projects**: Each project (e.g., `usa-antartica/`) is an independent folder, ignored by this repository, and managed by its own project-specific Git repository.
-
-### Directory Structure
-```text
-animations/ (Global Git Repo - Tracks data, prompts, config)
-├── .gitignore
-├── GEMINI.md
-├── README.md
-├── data/              <-- Shared GeoJSON maps (usa.json, antarctica.json, etc.)
-├── prompt/            <-- Documentation, rules, and prompt guidelines
-└── usa-antartica/     <-- Local Project Git Repo (Ignored by Global Repo)
-```
+## 📥 Downloading Specific Folders
+If you need to download only a specific project folder in the future instead of cloning the entire repository, you can use:
+* **DownGit**: [downgit.github.io](https://downgit.github.io/) (Paste the subfolder URL to download it as a ZIP)
+* **GitHub Web UI**: Navigate to the folder and click **`...`** (three dots) -> **Download directory**.
 
 ---
 
-## ⚡ Benefits & Sustainability
+## ⚡ Workspace & Strategy Rules
 
-As we scale up to **100s of animation projects**, this architecture provides key benefits:
-
-### 1. Zero Repository Bloat (Highly Sustainable)
-Video projects accumulate heavy binary assets (images, audio, and large `.mp4` renders) which would quickly crash a single global repository. By keeping each project in its own repository, GitHub file size limits are never breached.
-
-### 2. Clean & Automated Parent `.gitignore`
-Using the exclusion pattern (`/*` combined with `!/data/`, etc.), any new project directories created in the future are **automatically ignored** by the parent repository. You never have to manually edit the global `.gitignore` when starting a new animation.
-
-### 3. Shared Resources, No Duplication
+### 1. Shared Resources, No Duplication
 Large geospatial files (e.g. `india.json` which is ~12MB) are stored once in the global `data/` folder and imported into projects relatively (e.g. `../../../data/usa.json`). This saves gigabytes of disk space and duplicate file management.
 
-### 4. Code Portability
-Because individual projects are separate Git repositories, they remain self-contained. If you want to deploy, share, or render a specific animation on a remote server/render farm, you can push or clone just that individual project repository.
+### 2. Code Portability
+Individual projects reside in their own folders inside this workspace. If you want to deploy, share, or render a specific animation on a remote server/render farm, you can copy or clone just that individual project directory.
 
-### 5. btw we can not sharing images/media assets from diff folder to other folders cause In Remotion, static assets (images, audio, videos) must stay inside the local  public/  folder of each specific project directory.
-  
-### 6. We are not sharing temp/ folder cause they are majorly project specific and if you have a lot of problem then after completing animation delete them
+### 3. Media Assets Isolation
+We cannot share images/media assets across different project folders. In Remotion, static assets (images, audio, videos) **must** stay inside the local `public/` folder of each specific project directory.
 
-### 7. Strict Obedience Rule
+### 4. Temporary Files Isolation
+We do not share `temp/` folders because they are project-specific. If you encounter issues, delete the local `temp/` directory after completing the animation.
+
+### 5. Strict Obedience Rule
 The AI assistant must strictly follow the user's specific instructions. Do not take creative liberties or perform extra steps (like rendering the final composition) if a specific phase (like pre-rendering) is requested.
