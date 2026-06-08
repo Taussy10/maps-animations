@@ -1,0 +1,8 @@
+# Ignore everything in the root by default
+/*
+
+# Exclude shared files and folders from being ignored
+!/data/
+!/prompt/
+!/.gitignore
+!/README.md
