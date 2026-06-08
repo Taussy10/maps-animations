@@ -1,8 +1,8 @@
-# Ignore everything in the root by default
+# By default everything will be ignored
 /*
 
-# Exclude shared files and folders from being ignored
-!/data/
+# These files will not be ignored
+!/data/``
 !/prompt/
 !/.gitignore
 !/GEMINI.md
