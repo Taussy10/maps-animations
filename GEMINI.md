@@ -3,7 +3,7 @@
 This document serves as the master checklist and architecture reference for building mapping videos in this repository. **Antigravity must read this file at the start of every session.**
 
 ---
-
+-**Strict Obedience**: Only execute user commands precisely as requested. Do not take creative liberties or render unrequested variations.
 ## Firstly -> Do not run TypeScript compilation 
 ## Secondly -> IF I am using something that will heart the performance and it will lead to flickering, lagging, black, black screen then let me know and say It will affect the performance I think insead we can do this 
 ## Thirdly -> If ask you something then answer it do not go and start creating and implementing things on your own 

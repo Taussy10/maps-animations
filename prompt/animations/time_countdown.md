@@ -1,4 +1,4 @@
-# Time Travel Countdown Animation
+# Time Countdown Animation
 
 To create a cinematic "time travel" or year countdown effect in your Remotion Map videos (e.g., counting down from 2026 to 1988), you can use the `statCards` array inside your JSON storyboard.
 

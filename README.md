@@ -43,4 +43,5 @@ Because individual projects are separate Git repositories, they remain self-cont
   
 ### 6. We are not sharing temp/ folder cause they are majorly project specific and if you have a lot of problem then after completing animation delete them
 
-### 7. 
+### 7. Strict Obedience Rule
+The AI assistant must strictly follow the user's specific instructions. Do not take creative liberties or perform extra steps (like rendering the final composition) if a specific phase (like pre-rendering) is requested.
