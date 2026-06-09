@@ -1,0 +1,1239 @@
+{
+  "audio_file": "voice-over.mp3",
+  "fps": 30,
+  "words": [
+    {
+      "word": "Let's",
+      "start": 0.0,
+      "end": 0.4,
+      "frame_start": 0,
+      "frame_end": 12
+    },
+    {
+      "word": "compare",
+      "start": 0.4,
+      "end": 0.7,
+      "frame_start": 12,
+      "frame_end": 21
+    },
+    {
+      "word": "Kosovo",
+      "start": 0.7,
+      "end": 1.3,
+      "frame_start": 21,
+      "frame_end": 39
+    },
+    {
+      "word": "to",
+      "start": 1.3,
+      "end": 1.6,
+      "frame_start": 39,
+      "frame_end": 48
+    },
+    {
+      "word": "Serbia!",
+      "start": 1.6,
+      "end": 2.02,
+      "frame_start": 48,
+      "frame_end": 61
+    },
+    {
+      "word": "Kosovo",
+      "start": 2.46,
+      "end": 2.88,
+      "frame_start": 74,
+      "frame_end": 86
+    },
+    {
+      "word": "is",
+      "start": 2.88,
+      "end": 3.04,
+      "frame_start": 86,
+      "frame_end": 91
+    },
+    {
+      "word": "home",
+      "start": 3.04,
+      "end": 3.2,
+      "frame_start": 91,
+      "frame_end": 96
+    },
+    {
+      "word": "to",
+      "start": 3.2,
+      "end": 3.32,
+      "frame_start": 96,
+      "frame_end": 100
+    },
+    {
+      "word": "around",
+      "start": 3.32,
+      "end": 3.62,
+      "frame_start": 100,
+      "frame_end": 109
+    },
+    {
+      "word": "1.6 million",
+      "start": 3.62,
+      "end": 4.72,
+      "frame_start": 109,
+      "frame_end": 142
+    },
+
+    {
+      "word": "people,",
+      "start": 4.72,
+      "end": 5.14,
+      "frame_start": 142,
+      "frame_end": 154
+    },
+    {
+      "word": "while",
+      "start": 5.28,
+      "end": 5.38,
+      "frame_start": 158,
+      "frame_end": 161
+    },
+    {
+      "word": "Serbia",
+      "start": 5.38,
+      "end": 5.74,
+      "frame_start": 161,
+      "frame_end": 172
+    },
+    {
+      "word": "is",
+      "start": 5.74,
+      "end": 6.02,
+      "frame_start": 172,
+      "frame_end": 181
+    },
+    {
+      "word": "home",
+      "start": 6.02,
+      "end": 6.16,
+      "frame_start": 181,
+      "frame_end": 185
+    },
+    {
+      "word": "to",
+      "start": 6.16,
+      "end": 6.28,
+      "frame_start": 185,
+      "frame_end": 188
+    },
+    {
+      "word": "around",
+      "start": 6.28,
+      "end": 6.58,
+      "frame_start": 188,
+      "frame_end": 197
+    },
+    {
+      "word": "6.6 million",
+      "start": 6.58,
+      "end": 7.64,
+      "frame_start": 197,
+      "frame_end": 229
+    },
+
+    {
+      "word": "people.",
+      "start": 7.64,
+      "end": 8.02,
+      "frame_start": 229,
+      "frame_end": 241
+    },
+    {
+      "word": "This",
+      "start": 8.18,
+      "end": 8.32,
+      "frame_start": 245,
+      "frame_end": 250
+    },
+    {
+      "word": "makes",
+      "start": 8.32,
+      "end": 8.54,
+      "frame_start": 250,
+      "frame_end": 256
+    },
+    {
+      "word": "Serbia",
+      "start": 8.54,
+      "end": 8.86,
+      "frame_start": 256,
+      "frame_end": 266
+    },
+    {
+      "word": "home",
+      "start": 8.86,
+      "end": 9.2,
+      "frame_start": 266,
+      "frame_end": 276
+    },
+    {
+      "word": "to",
+      "start": 9.2,
+      "end": 9.36,
+      "frame_start": 276,
+      "frame_end": 281
+    },
+    {
+      "word": "roughly",
+      "start": 9.36,
+      "end": 9.68,
+      "frame_start": 281,
+      "frame_end": 290
+    },
+    {
+      "word": "4 times",
+      "start": 9.68,
+      "end": 10.36,
+      "frame_start": 290,
+      "frame_end": 311
+    },
+    {
+      "word": "as",
+      "start": 10.36,
+      "end": 10.58,
+      "frame_start": 311,
+      "frame_end": 317
+    },
+    {
+      "word": "many",
+      "start": 10.58,
+      "end": 10.74,
+      "frame_start": 317,
+      "frame_end": 322
+    },
+    {
+      "word": "people",
+      "start": 10.74,
+      "end": 11.06,
+      "frame_start": 322,
+      "frame_end": 332
+    },
+    {
+      "word": "as",
+      "start": 11.06,
+      "end": 11.26,
+      "frame_start": 332,
+      "frame_end": 338
+    },
+    {
+      "word": "Kosovo.",
+      "start": 11.26,
+      "end": 11.72,
+      "frame_start": 338,
+      "frame_end": 352
+    },
+    {
+      "word": "Kosovo's",
+      "start": 11.86,
+      "end": 12.36,
+      "frame_start": 356,
+      "frame_end": 371
+    },
+    {
+      "word": "largest",
+      "start": 12.36,
+      "end": 12.54,
+      "frame_start": 371,
+      "frame_end": 376
+    },
+    {
+      "word": "cities",
+      "start": 12.54,
+      "end": 12.96,
+      "frame_start": 376,
+      "frame_end": 389
+    },
+    {
+      "word": "are",
+      "start": 12.96,
+      "end": 13.22,
+      "frame_start": 389,
+      "frame_end": 397
+    },
+    {
+      "word": "Pristina",
+      "start": 13.22,
+      "end": 13.72,
+      "frame_start": 397,
+      "frame_end": 412
+    },
+    {
+      "word": "and",
+      "start": 13.72,
+      "end": 14.0,
+      "frame_start": 412,
+      "frame_end": 420
+    },
+    {
+      "word": "Prisren.",
+      "start": 14.0,
+      "end": 14.44,
+      "frame_start": 420,
+      "frame_end": 433
+    },
+    {
+      "word": "Serbia's",
+      "start": 14.6,
+      "end": 15.04,
+      "frame_start": 438,
+      "frame_end": 451
+    },
+    {
+      "word": "largest",
+      "start": 15.04,
+      "end": 15.22,
+      "frame_start": 451,
+      "frame_end": 457
+    },
+    {
+      "word": "cities",
+      "start": 15.22,
+      "end": 15.58,
+      "frame_start": 457,
+      "frame_end": 467
+    },
+    {
+      "word": "are",
+      "start": 15.58,
+      "end": 15.8,
+      "frame_start": 467,
+      "frame_end": 474
+    },
+    {
+      "word": "Belgrade",
+      "start": 15.8,
+      "end": 16.24,
+      "frame_start": 474,
+      "frame_end": 487
+    },
+    {
+      "word": "and",
+      "start": 16.24,
+      "end": 16.54,
+      "frame_start": 487,
+      "frame_end": 496
+    },
+    {
+      "word": "Novi Sad.",
+      "start": 16.54,
+      "end": 17.06,
+      "frame_start": 496,
+      "frame_end": 512
+    },
+ 
+    {
+      "word": "Kosovo's",
+      "start": 17.24,
+      "end": 17.78,
+      "frame_start": 517,
+      "frame_end": 533
+    },
+    {
+      "word": "4,212",
+      "start": 17.78,
+      "end": 19.2,
+      "frame_start": 533,
+      "frame_end": 576
+    },
+
+    {
+      "word": "square",
+      "start": 19.2,
+      "end": 19.42,
+      "frame_start": 576,
+      "frame_end": 583
+    },
+    {
+      "word": "miles",
+      "start": 19.42,
+      "end": 19.9,
+      "frame_start": 583,
+      "frame_end": 597
+    },
+    {
+      "word": "make",
+      "start": 19.9,
+      "end": 20.16,
+      "frame_start": 597,
+      "frame_end": 605
+    },
+    {
+      "word": "it",
+      "start": 20.16,
+      "end": 20.28,
+      "frame_start": 605,
+      "frame_end": 608
+    },
+    {
+      "word": "one",
+      "start": 20.28,
+      "end": 20.4,
+      "frame_start": 608,
+      "frame_end": 612
+    },
+    {
+      "word": "of",
+      "start": 20.4,
+      "end": 20.52,
+      "frame_start": 612,
+      "frame_end": 616
+    },
+    {
+      "word": "the",
+      "start": 20.52,
+      "end": 20.64,
+      "frame_start": 616,
+      "frame_end": 619
+    },
+    {
+      "word": "smallest",
+      "start": 20.64,
+      "end": 20.9,
+      "frame_start": 619,
+      "frame_end": 627
+    },
+    {
+      "word": "countries",
+      "start": 20.9,
+      "end": 21.38,
+      "frame_start": 627,
+      "frame_end": 641
+    },
+    {
+      "word": "in",
+      "start": 21.38,
+      "end": 21.6,
+      "frame_start": 641,
+      "frame_end": 648
+    },
+    {
+      "word": "Europe.",
+      "start": 21.6,
+      "end": 21.86,
+      "frame_start": 648,
+      "frame_end": 656
+    },
+    {
+      "word": "Serbia's",
+      "start": 22.02,
+      "end": 22.52,
+      "frame_start": 661,
+      "frame_end": 676
+    },
+    {
+      "word": "34,116",
+      "start": 22.52,
+      "end": 24.5,
+      "frame_start": 676,
+      "frame_end": 735
+    },
+
+    {
+      "word": "square",
+      "start": 24.5,
+      "end": 24.9,
+      "frame_start": 735,
+      "frame_end": 747
+    },
+    {
+      "word": "miles",
+      "start": 24.9,
+      "end": 25.38,
+      "frame_start": 747,
+      "frame_end": 761
+    },
+    {
+      "word": "make",
+      "start": 25.38,
+      "end": 25.58,
+      "frame_start": 761,
+      "frame_end": 767
+    },
+    {
+      "word": "it",
+      "start": 25.58,
+      "end": 25.7,
+      "frame_start": 767,
+      "frame_end": 771
+    },
+    {
+      "word": "over",
+      "start": 25.7,
+      "end": 25.88,
+      "frame_start": 771,
+      "frame_end": 776
+    },
+    {
+      "word": "8 times",
+      "start": 25.88,
+      "end": 26.6,
+      "frame_start": 776,
+      "frame_end": 798
+    },
+    
+    {
+      "word": "larger",
+      "start": 26.6,
+      "end": 27.04,
+      "frame_start": 798,
+      "frame_end": 811
+    },
+    {
+      "word": "than",
+      "start": 27.04,
+      "end": 27.24,
+      "frame_start": 811,
+      "frame_end": 817
+    },
+    {
+      "word": "Kosovo.",
+      "start": 27.24,
+      "end": 27.76,
+      "frame_start": 817,
+      "frame_end": 833
+    },
+    {
+      "word": "Kosovo",
+      "start": 27.76,
+      "end": 28.32,
+      "frame_start": 833,
+      "frame_end": 850
+    },
+    {
+      "word": "has",
+      "start": 28.32,
+      "end": 28.56,
+      "frame_start": 850,
+      "frame_end": 857
+    },
+    {
+      "word": "a",
+      "start": 28.56,
+      "end": 28.68,
+      "frame_start": 857,
+      "frame_end": 860
+    },
+    {
+      "word": "GDP",
+      "start": 28.68,
+      "end": 28.9,
+      "frame_start": 860,
+      "frame_end": 867
+    },
+    {
+      "word": "of",
+      "start": 28.9,
+      "end": 29.32,
+      "frame_start": 867,
+      "frame_end": 880
+    },
+    {
+      "word": "around",
+      "start": 29.32,
+      "end": 29.52,
+      "frame_start": 880,
+      "frame_end": 886
+    },
+    {
+      "word": "$11 billion,",
+      "start": 29.52,
+      "end": 30.3,
+      "frame_start": 886,
+      "frame_end": 909
+    },
+
+    {
+      "word": "while",
+      "start": 30.86,
+      "end": 31.0,
+      "frame_start": 926,
+      "frame_end": 930
+    },
+    {
+      "word": "Serbia",
+      "start": 31.0,
+      "end": 31.28,
+      "frame_start": 930,
+      "frame_end": 938
+    },
+    {
+      "word": "has",
+      "start": 31.28,
+      "end": 31.62,
+      "frame_start": 938,
+      "frame_end": 949
+    },
+    {
+      "word": "a",
+      "start": 31.62,
+      "end": 31.72,
+      "frame_start": 949,
+      "frame_end": 952
+    },
+    {
+      "word": "GDP",
+      "start": 31.72,
+      "end": 31.98,
+      "frame_start": 952,
+      "frame_end": 959
+    },
+    {
+      "word": "of",
+      "start": 31.98,
+      "end": 32.38,
+      "frame_start": 959,
+      "frame_end": 971
+    },
+    {
+      "word": "over",
+      "start": 32.38,
+      "end": 32.62,
+      "frame_start": 971,
+      "frame_end": 979
+    },
+    {
+      "word": "$80 billion.",
+      "start": 32.62,
+      "end": 33.3,
+      "frame_start": 979,
+      "frame_end": 999
+    },
+
+    {
+      "word": "In",
+      "start": 33.98,
+      "end": 34.14,
+      "frame_start": 1019,
+      "frame_end": 1024
+    },
+    {
+      "word": "Kosovo,",
+      "start": 34.14,
+      "end": 34.62,
+      "frame_start": 1024,
+      "frame_end": 1039
+    },
+    {
+      "word": "the",
+      "start": 34.76,
+      "end": 34.82,
+      "frame_start": 1043,
+      "frame_end": 1045
+    },
+    {
+      "word": "average",
+      "start": 34.82,
+      "end": 35.12,
+      "frame_start": 1045,
+      "frame_end": 1054
+    },
+    {
+      "word": "person",
+      "start": 35.12,
+      "end": 35.5,
+      "frame_start": 1054,
+      "frame_end": 1065
+    },
+    {
+      "word": "earns",
+      "start": 35.5,
+      "end": 35.74,
+      "frame_start": 1065,
+      "frame_end": 1072
+    },
+    {
+      "word": "around",
+      "start": 35.74,
+      "end": 35.98,
+      "frame_start": 1072,
+      "frame_end": 1079
+    },
+    {
+      "word": "$6",
+      "start": 35.98,
+      "end": 36.28,
+      "frame_start": 1079,
+      "frame_end": 1088
+    },
+    {
+      "word": ",000",
+      "start": 36.28,
+      "end": 36.7,
+      "frame_start": 1088,
+      "frame_end": 1101
+    },
+    {
+      "word": "a",
+      "start": 36.7,
+      "end": 37.08,
+      "frame_start": 1101,
+      "frame_end": 1112
+    },
+    {
+      "word": "year.",
+      "start": 37.08,
+      "end": 37.38,
+      "frame_start": 1112,
+      "frame_end": 1121
+    },
+    {
+      "word": "Serbia's",
+      "start": 37.62,
+      "end": 38.06,
+      "frame_start": 1129,
+      "frame_end": 1142
+    },
+    {
+      "word": "GDP",
+      "start": 38.06,
+      "end": 38.4,
+      "frame_start": 1142,
+      "frame_end": 1152
+    },
+    {
+      "word": "per",
+      "start": 38.4,
+      "end": 38.76,
+      "frame_start": 1152,
+      "frame_end": 1163
+    },
+    {
+      "word": "capita",
+      "start": 38.76,
+      "end": 39.08,
+      "frame_start": 1163,
+      "frame_end": 1172
+    },
+    {
+      "word": "is",
+      "start": 39.08,
+      "end": 39.34,
+      "frame_start": 1172,
+      "frame_end": 1180
+    },
+    {
+      "word": "around",
+      "start": 39.34,
+      "end": 39.58,
+      "frame_start": 1180,
+      "frame_end": 1187
+    },
+    {
+      "word": "$13",
+      "start": 39.58,
+      "end": 39.98,
+      "frame_start": 1187,
+      "frame_end": 1199
+    },
+    {
+      "word": ",000,",
+      "start": 39.98,
+      "end": 40.52,
+      "frame_start": 1199,
+      "frame_end": 1216
+    },
+    {
+      "word": "roughly",
+      "start": 41.04,
+      "end": 41.36,
+      "frame_start": 1231,
+      "frame_end": 1241
+    },
+    {
+      "word": "twice",
+      "start": 41.36,
+      "end": 41.66,
+      "frame_start": 1241,
+      "frame_end": 1250
+    },
+    {
+      "word": "as",
+      "start": 41.66,
+      "end": 41.92,
+      "frame_start": 1250,
+      "frame_end": 1258
+    },
+    {
+      "word": "high.",
+      "start": 41.92,
+      "end": 42.24,
+      "frame_start": 1258,
+      "frame_end": 1267
+    },
+    {
+      "word": "Kosovo's",
+      "start": 42.48,
+      "end": 43.0,
+      "frame_start": 1274,
+      "frame_end": 1290
+    },
+    {
+      "word": "most",
+      "start": 43.0,
+      "end": 43.18,
+      "frame_start": 1290,
+      "frame_end": 1295
+    },
+    {
+      "word": "famous",
+      "start": 43.18,
+      "end": 43.64,
+      "frame_start": 1295,
+      "frame_end": 1309
+    },
+    {
+      "word": "singer?",
+      "start": 43.64,
+      "end": 44.08,
+      "frame_start": 1309,
+      "frame_end": 1322
+    },
+    {
+      "word": "Dua",
+      "start": 44.32,
+      "end": 44.48,
+      "frame_start": 1330,
+      "frame_end": 1334
+    },
+    {
+      "word": "Lipa.",
+      "start": 44.48,
+      "end": 44.94,
+      "frame_start": 1334,
+      "frame_end": 1348
+    },
+    {
+      "word": "And",
+      "start": 45.02,
+      "end": 45.18,
+      "frame_start": 1351,
+      "frame_end": 1355
+    },
+    {
+      "word": "Serbia's?",
+      "start": 45.18,
+      "end": 45.8,
+      "frame_start": 1355,
+      "frame_end": 1374
+    },
+    {
+      "word": "Ceca,",
+      "start": 45.96,
+      "end": 46.24,
+      "frame_start": 1379,
+      "frame_end": 1387
+    },
+    {
+      "word": "whom",
+      "start": 46.44,
+      "end": 46.58,
+      "frame_start": 1393,
+      "frame_end": 1397
+    },
+    {
+      "word": "unfortunately",
+      "start": 46.58,
+      "end": 47.28,
+      "frame_start": 1397,
+      "frame_end": 1418
+    },
+    {
+      "word": "no",
+      "start": 47.28,
+      "end": 47.66,
+      "frame_start": 1418,
+      "frame_end": 1430
+    },
+    {
+      "word": "one",
+      "start": 47.66,
+      "end": 47.86,
+      "frame_start": 1430,
+      "frame_end": 1436
+    },
+    {
+      "word": "knows",
+      "start": 47.86,
+      "end": 48.12,
+      "frame_start": 1436,
+      "frame_end": 1444
+    },
+    {
+      "word": "outside",
+      "start": 48.12,
+      "end": 48.46,
+      "frame_start": 1444,
+      "frame_end": 1454
+    },
+    {
+      "word": "Serbia.",
+      "start": 48.46,
+      "end": 48.88,
+      "frame_start": 1454,
+      "frame_end": 1466
+    },
+    {
+      "word": "Now",
+      "start": 49.08,
+      "end": 49.26,
+      "frame_start": 1472,
+      "frame_end": 1478
+    },
+    {
+      "word": "for",
+      "start": 49.26,
+      "end": 49.44,
+      "frame_start": 1478,
+      "frame_end": 1483
+    },
+    {
+      "word": "the",
+      "start": 49.44,
+      "end": 49.54,
+      "frame_start": 1483,
+      "frame_end": 1486
+    },
+    {
+      "word": "controversial",
+      "start": 49.54,
+      "end": 50.0,
+      "frame_start": 1486,
+      "frame_end": 1500
+    },
+    {
+      "word": "stuff.",
+      "start": 50.0,
+      "end": 50.42,
+      "frame_start": 1500,
+      "frame_end": 1513
+    },
+    {
+      "word": "Serbia",
+      "start": 50.66,
+      "end": 50.96,
+      "frame_start": 1520,
+      "frame_end": 1529
+    },
+    {
+      "word": "is",
+      "start": 50.96,
+      "end": 51.28,
+      "frame_start": 1529,
+      "frame_end": 1538
+    },
+    {
+      "word": "like",
+      "start": 51.28,
+      "end": 51.42,
+      "frame_start": 1538,
+      "frame_end": 1543
+    },
+    {
+      "word": "a",
+      "start": 51.42,
+      "end": 51.56,
+      "frame_start": 1543,
+      "frame_end": 1547
+    },
+    {
+      "word": "guy",
+      "start": 51.56,
+      "end": 51.76,
+      "frame_start": 1547,
+      "frame_end": 1553
+    },
+    {
+      "word": "who",
+      "start": 51.76,
+      "end": 51.94,
+      "frame_start": 1553,
+      "frame_end": 1558
+    },
+    {
+      "word": "got",
+      "start": 51.94,
+      "end": 52.14,
+      "frame_start": 1558,
+      "frame_end": 1564
+    },
+    {
+      "word": "dumped",
+      "start": 52.14,
+      "end": 52.38,
+      "frame_start": 1564,
+      "frame_end": 1571
+    },
+    {
+      "word": "by",
+      "start": 52.38,
+      "end": 52.62,
+      "frame_start": 1571,
+      "frame_end": 1579
+    },
+    {
+      "word": "his",
+      "start": 52.62,
+      "end": 52.74,
+      "frame_start": 1579,
+      "frame_end": 1582
+    },
+    {
+      "word": "girlfriend,",
+      "start": 52.74,
+      "end": 53.1,
+      "frame_start": 1582,
+      "frame_end": 1593
+    },
+    {
+      "word": "but",
+      "start": 53.34,
+      "end": 53.46,
+      "frame_start": 1600,
+      "frame_end": 1604
+    },
+    {
+      "word": "couldn't",
+      "start": 53.46,
+      "end": 53.82,
+      "frame_start": 1604,
+      "frame_end": 1615
+    },
+    {
+      "word": "move",
+      "start": 53.82,
+      "end": 53.98,
+      "frame_start": 1615,
+      "frame_end": 1619
+    },
+    {
+      "word": "on",
+      "start": 53.98,
+      "end": 54.24,
+      "frame_start": 1619,
+      "frame_end": 1627
+    },
+    {
+      "word": "and",
+      "start": 54.24,
+      "end": 54.4,
+      "frame_start": 1627,
+      "frame_end": 1632
+    },
+    {
+      "word": "still",
+      "start": 54.4,
+      "end": 54.64,
+      "frame_start": 1632,
+      "frame_end": 1639
+    },
+    {
+      "word": "thinks",
+      "start": 54.64,
+      "end": 54.86,
+      "frame_start": 1639,
+      "frame_end": 1646
+    },
+    {
+      "word": "about",
+      "start": 54.86,
+      "end": 55.14,
+      "frame_start": 1646,
+      "frame_end": 1654
+    },
+    {
+      "word": "her.",
+      "start": 55.14,
+      "end": 55.32,
+      "frame_start": 1654,
+      "frame_end": 1660
+    },
+    {
+      "word": "Yeah,",
+      "start": 55.32,
+      "end": 55.66,
+      "frame_start": 1660,
+      "frame_end": 1670
+    },
+    {
+      "word": "Serbia",
+      "start": 55.8,
+      "end": 56.02,
+      "frame_start": 1674,
+      "frame_end": 1681
+    },
+    {
+      "word": "does",
+      "start": 56.02,
+      "end": 56.3,
+      "frame_start": 1681,
+      "frame_end": 1689
+    },
+    {
+      "word": "not",
+      "start": 56.3,
+      "end": 56.54,
+      "frame_start": 1689,
+      "frame_end": 1696
+    },
+    {
+      "word": "recognize",
+      "start": 56.54,
+      "end": 57.04,
+      "frame_start": 1696,
+      "frame_end": 1711
+    },
+    {
+      "word": "Kosovo",
+      "start": 57.04,
+      "end": 57.54,
+      "frame_start": 1711,
+      "frame_end": 1726
+    },
+    {
+      "word": "as",
+      "start": 57.54,
+      "end": 57.68,
+      "frame_start": 1726,
+      "frame_end": 1730
+    },
+    {
+      "word": "a",
+      "start": 57.68,
+      "end": 57.76,
+      "frame_start": 1730,
+      "frame_end": 1733
+    },
+    {
+      "word": "country,",
+      "start": 57.76,
+      "end": 58.06,
+      "frame_start": 1733,
+      "frame_end": 1742
+    },
+    {
+      "word": "even",
+      "start": 58.22,
+      "end": 58.36,
+      "frame_start": 1747,
+      "frame_end": 1751
+    },
+    {
+      "word": "though",
+      "start": 58.36,
+      "end": 58.54,
+      "frame_start": 1751,
+      "frame_end": 1756
+    },
+    {
+      "word": "Kosovo",
+      "start": 58.54,
+      "end": 59.0,
+      "frame_start": 1756,
+      "frame_end": 1770
+    },
+    {
+      "word": "declared",
+      "start": 59.0,
+      "end": 59.3,
+      "frame_start": 1770,
+      "frame_end": 1779
+    },
+    {
+      "word": "its",
+      "start": 59.3,
+      "end": 59.52,
+      "frame_start": 1779,
+      "frame_end": 1786
+    },
+    {
+      "word": "independence",
+      "start": 59.52,
+      "end": 59.92,
+      "frame_start": 1786,
+      "frame_end": 1798
+    },
+    {
+      "word": "in",
+      "start": 59.92,
+      "end": 60.18,
+      "frame_start": 1798,
+      "frame_end": 1805
+    },
+    {
+      "word": "2008.",
+      "start": 60.18,
+      "end": 60.8,
+      "frame_start": 1805,
+      "frame_end": 1824
+    },
+    {
+      "word": "So",
+      "start": 61.06,
+      "end": 61.24,
+      "frame_start": 1832,
+      "frame_end": 1837
+    },
+    {
+      "word": "what",
+      "start": 61.24,
+      "end": 61.46,
+      "frame_start": 1837,
+      "frame_end": 1844
+    },
+    {
+      "word": "comparison",
+      "start": 61.46,
+      "end": 61.88,
+      "frame_start": 1844,
+      "frame_end": 1856
+    },
+    {
+      "word": "do",
+      "start": 61.88,
+      "end": 62.12,
+      "frame_start": 1856,
+      "frame_end": 1864
+    },
+    {
+      "word": "you",
+      "start": 62.12,
+      "end": 62.2,
+      "frame_start": 1864,
+      "frame_end": 1866
+    },
+    {
+      "word": "want",
+      "start": 62.2,
+      "end": 62.3,
+      "frame_start": 1866,
+      "frame_end": 1869
+    },
+    {
+      "word": "to",
+      "start": 62.3,
+      "end": 62.4,
+      "frame_start": 1869,
+      "frame_end": 1872
+    },
+    {
+      "word": "see",
+      "start": 62.4,
+      "end": 62.48,
+      "frame_start": 1872,
+      "frame_end": 1874
+    },
+    {
+      "word": "next?",
+      "start": 62.48,
+      "end": 62.74,
+      "frame_start": 1874,
+      "frame_end": 1882
+    }
+  ]
+}

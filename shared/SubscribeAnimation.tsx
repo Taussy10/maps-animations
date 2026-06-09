@@ -142,10 +142,10 @@ export const SubscribeAnimation: React.FC<SubscribeAnimationProps> = ({
       {/* Text Details */}
       <div style={{ display: "flex", flexDirection: "column", flexGrow: 1, fontFamily: "'Poppins', sans-serif" }}>
         <span style={{ fontWeight: 800, fontSize: "40px", color: "#0f0f0f", lineHeight: 1.2 }}>
-          GeoDiary
+          Hazen Films
         </span>
         <span style={{ fontWeight: 500, fontSize: "28px", color: "#606060", marginTop: "4px" }}>
-          87 subscribers
+          91 subscribers
         </span>
       </div>
 
