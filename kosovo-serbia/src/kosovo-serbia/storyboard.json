@@ -1,96 +1,225 @@
-[
-  {
-    "scene": "Scene 1",
-    "startFrame": 0,
-    "endFrame": 61,
-    "text": "Let's compare Kosovo to Serbia!",
-    "cameraStart": {
+{
+  "cameraKeyframes": [
+    {
+      "_comment": "in intial frame camera will be zoomed in then from 0 to 20 frame it will zommed out ",
+      "frame": 0,
       "center": [-30.0, 20.0],
-      "zoom": 4.5,
+      "zoom": 5.5,
       "pitch": 0,
-      "bearing": 0,
-      "easing": "quadInOut"
+      "bearing": 0
     },
-    "cameraEnd": {
+    {
+      "_comment": "from 20 to 21 frame camera will be cut(location chaned, see center key of 21 st frame) and zoom In",
+      "frame": 20,
       "center": [-30.0, 20.0],
-      "zoom": 4.65,
-      "pitch": 3,
-      "bearing": 2,
+      "zoom": 3.5,
+      "pitch": 1,
+      "bearing": 0.5,
       "easing": "quadInOut"
     },
-    "textOverlays": [
-      {
-        "text": "VS",
-        "style": {
-          "color": "#FF0000",
-          "fontSize": "150px",
-          "textShadow": "0 0 10px #FF0000, 0 0 20px #FF0000, 0 0 30px #FF0000, 0 0 40px #FF0000"
-        }
-      }
-    ],
-    "mapHighlights": [],
-    "statCards": []
-  },
-  {
-    "scene": "Scene 2",
-    "startFrame": 74,
-    "endFrame": 154,
-    "text": "Kosovo is home to around 1.6 million people,",
-    "cameraStart": {
+    {
+      "_comment": "from 21 to 47 frame camera will and zoom In more",
+      "frame": 21,
       "center": [20.902, 42.602],
-      "zoom": 8.5,
+      "zoom": 6.4,
       "pitch": 45,
       "bearing": 5
     },
-    "cameraEnd": {
+    {
+    "_comment": "from 47 to 48 frame camera will be cut to Serbia zoomed out lll bit",
+      "frame": 47,
       "center": [20.902, 42.602],
-      "zoom": 8.6,
-      "pitch": 49,
-      "bearing": 8
+      "zoom": 8.5,
+      "pitch": 47,
+      "bearing": 6.5,
+      "easing": "quadInOut"
     },
-    "textOverlays": [
-      {
-        "text": "Kosovo",
-        "style": {
-          "color": "#D0A92B",
-          "fontSize": "120px",
-          "textShadow": "4px 4px 0px #000000",
-          "WebkitTextStroke": "3px #000000"
-        }
-      }
-    ],
-    "mapHighlights": ["kosovo"],
-    "statCards": []
-  },
-  {
-    "scene": "Scene 3",
-    "startFrame": 158,
-    "endFrame": 241,
-    "text": "while Serbia is home to around 6.6 million people.",
-    "cameraStart": {
+    {
+      "_comment": "from 48  to 61 frame camera will zoom in lil bit",
+
+      "frame": 48,
       "center": [20.989, 44.016],
       "zoom": 7.3,
       "pitch": 45,
       "bearing": -5
     },
-    "cameraEnd": {
+    {
+      "_comment": "from 48 to 61 frame camera will zoom in more on Serbia",
+      "frame": 61,
       "center": [20.989, 44.016],
-      "zoom": 7.4,
-      "pitch": 49,
-      "bearing": -2
+      "zoom": 5.5,
+      "pitch": 46.5,
+      "bearing": -4,
+      "easing": "quadInOut"
     },
-    "textOverlays": [
-      {
-        "text": "Serbia",
-        "style": {
-          "color": "#1A327E",
-          "fontSize": "120px",
-          "textShadow": "4px 4px 0px #000000",
-          "WebkitTextStroke": "3px #000000"
-        }
+    {
+      "_comment": "Scene 2: Zoomed out, focus on Kosovo (frame 62)",
+      "frame": 62,
+      "center": [20.902, 42.602],
+      "zoom": 7.5,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 2: Subtle drift on Kosovo (frame 154)",
+      "frame": 154,
+      "center": [20.902, 42.602],
+      "zoom": 7.4,
+      "pitch": 43,
+      "bearing": 7,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 3: Zoomed out, focus on Serbia (frame 155)",
+      "frame": 155,
+      "center": [20.989, 44.016],
+      "zoom": 7.0,
+      "pitch": 45,
+      "bearing": -5
+    },
+    {
+      "_comment": "Scene 3: Subtle drift on Serbia (frame 241)",
+      "frame": 241,
+      "center": [20.989, 44.016],
+      "zoom": 6.9,
+      "pitch": 48,
+      "bearing": -3,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 4: Zoomed out, focus on Serbia (frame 242)",
+      "frame": 242,
+      "center": [20.989, 44.016],
+      "zoom": 6.9,
+      "pitch": 48,
+      "bearing": -3
+    },
+    {
+      "_comment": "Scene 4: Subtle drift on Serbia (frame 352)",
+      "frame": 352,
+      "center": [20.989, 44.016],
+      "zoom": 6.7,
+      "pitch": 52,
+      "bearing": -1,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 5: Zoomed out, focus on Kosovo (frame 353)",
+      "frame": 353,
+      "center": [20.902, 42.602],
+      "zoom": 7.5,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 5: Subtle drift on Kosovo (frame 433)",
+      "frame": 433,
+      "center": [20.902, 42.602],
+      "zoom": 7.4,
+      "pitch": 43,
+      "bearing": 7,
+      "easing": "quadInOut"
+    }
+  ],
+  "mapHighlights": [
+    {
+      "country": "kosovo",
+      "color": "#0088FF",
+      "opacity": 0.45
+    },
+    {
+      "country": "serbia",
+      "color": "#C31E39",
+      "opacity": 0.45
+    }
+  ],
+  "textOverlays": [
+    {
+      "id": "vs_text",
+      "text": "VS",
+      "map": "atlantic",
+      "coords": [-30.0, 20.0],
+      "fadeIn": [2, 8],
+      "fadeOut": [16, 20],
+      "offsetY": 0,
+      "textStyle": {
+        "fontFamily": "sans-serif",
+        "fontWeight": "normal",
+        "fontSize": "150px",
+        "color": "#FF0000",
+        "textShadow": "0 0 10px #FF0000, 0 0 20px #FF0000, 0 0 30px #FF0000, 0 0 40px #FF0000"
       }
-    ],
-    "mapHighlights": ["serbia"],
-    "statCards": []
-  }
-]
+    },
+    {
+      "id": "kosovo_label",
+      "text": "Kosovo",
+      "map": "kosovo",
+      "coords": [20.902, 42.602],
+      "fadeIn": [21, 26],
+      "fadeOut": [42, 47],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "120px",
+        "color": "#FFFFFF",
+        "textShadow": "4px 4px 0px #000000",
+        "WebkitTextStroke": "3px #000000"
+      }
+    },
+    {
+      "id": "serbia_label",
+      "text": "Serbia",
+      "map": "serbia",
+      "coords": [20.989, 44.016],
+      "fadeIn": [48, 52],
+      "fadeOut": [57, 61],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "120px",
+        "color": "#FFFFFF",
+        "textShadow": "4px 4px 0px #000000",
+        "WebkitTextStroke": "3px #000000"
+      }
+    }
+  ],
+  "statCards": [
+    {
+      "startValue": 0,
+      "endValue": 1.6,
+      "fadeIn": [74, 79],
+      "countDuration": [79, 144],
+      "fadeOut": [150, 154],
+      "coords": [20.902, 42.95],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "100px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #00aaff, 0 0 40px #00aaff, 0 0 60px #00aaff, 0 8px 10px rgba(0,0,0,0.8)"
+      }
+    },
+    {
+      "startValue": 0,
+      "endValue": 6.6,
+      "fadeIn": [158, 163],
+      "countDuration": [163, 231],
+      "fadeOut": [237, 241],
+      "coords": [20.989, 44.55],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "100px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #ff3333, 0 0 40px #ff3333, 0 0 60px #ff3333, 0 8px 10px rgba(0,0,0,0.8)",
+        "WebkitTextStroke": "3px #ff3333"
+      }
+    }
+  ]
+}

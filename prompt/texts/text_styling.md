@@ -1,61 +1,47 @@
-# Solid Text Outline & Drop Shadow Styling (Poppins)
+# Text Styling Guidelines for Remotion Maps
 
-Use this template to style high-contrast, bold subtitles, countdowns, and other text elements directly on top of map imagery.
-
-## 1. Caption Subtitle Style (Yellow)
-
-This style features a solid yellow fill, a thick black outline, and a sharp solid drop shadow. It uses inline React styles to load the font and render the element without external CSS dependencies.
-
-### Font Load (React Inline)
-```tsx
-<style>
-  {`@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;800;900&display=swap');`}
-</style>
-```
-
-### Component Style
-```tsx
-<span
-  style={{
-    fontFamily: "'Poppins', sans-serif",
-    fontWeight: 900,
-    fontSize: "84px",
-    lineHeight: 1.2,
-    color: "#FFFF00",
-    WebkitTextStroke: "4px #000000",
-    textShadow: "6px 6px 0px #000000",
-    display: "inline-block",
-  }}
->
-  {text}
-</span>
-```
+Use these styles to create cinematic, glowing, and high-impact text overlays on your maps.
 
 ---
 
-## 2. Countdown Rank Style (White)
+## 1. Glowing "VS" Text Overlay
+Used at the start of videos to introduce the comparison. Designed with a heavy red neon glow.
 
-This style uses the same solid outline and shadow effects, but in white and scaled larger for numerical overlays.
+* **Text**: `VS` (Capital and Bold)
+* **Font Family**: `sans-serif`
+* **Font Weight**: `bold` / `900`
+* **Size**: `150px`
+* **Color**: `#FF0000` (Red)
+* **Shadow Glow**: `0 0 10px #FF0000, 0 0 20px #FF0000, 0 0 30px #FF0000, 0 0 40px #FF0000`
 
-### Component Style
-```tsx
-<span
-  style={{
-    fontFamily: "'Poppins', sans-serif",
-    fontWeight: 900,
-    fontSize: "220px",
-    lineHeight: 1,
-    letterSpacing: "0.02em",
-    color: "#ffffff",
-    WebkitTextStroke: "6px #000000",
-    textShadow: "10px 10px 0px #000000",
-    transform: `scale(${pulse})`,
-    display: "inline-block",
-  }}
->
-  {displayValue}
-  <span style={{ fontSize: "100px", verticalAlign: "super", marginLeft: "4px", WebkitTextStroke: "4px #000000" }}>
-    {suffix}
-  </span>
-</span>
-```
+---
+
+## 2. Country / Region Labels
+Large, bold text positioned over regions. Uses modern sans-serif typography with thick outer outlines to ensure readability over satellite maps.
+
+* **Font Family**: `Poppins, sans-serif`
+* **Font Weight**: `900`
+* **Size**: `120px`
+* **Colors**: 
+  - Kosovo: `#FFFFFF` with Gold/Black stroke
+  - Serbia: `#FFFFFF` with Blue/Black stroke
+* **Outline (Stroke)**: `3px #000000` (Black stroke)
+* **Drop Shadow**: `4px 4px 0px #000000`
+
+---
+
+## 3. Numeric Countdowns / Stats Cards
+Monospaced, highly readable neon-glowing telemetry counters positioned in 3D map space.
+
+* **Font Family**: `monospace, sans-serif`
+* **Font Weight**: `900`
+* **Size**: `100px`
+* **Letter Spacing**: `0.05em`
+* **Color Schemes**:
+  - **Kosovo (Cyan Glow)**:
+    - Text Color: `#ffffff`
+    - Text Shadow: `0 0 20px #00aaff, 0 0 40px #00aaff, 0 0 60px #00aaff, 0 8px 10px rgba(0,0,0,0.8)`
+  - **Serbia (Red Outline + Red Glow)**:
+    - Text Color: `#ffffff`
+    - Outer Outline: `3px #ff3333`
+    - Text Shadow: `0 0 20px #ff3333, 0 0 40px #ff3333, 0 0 60px #ff3333, 0 8px 10px rgba(0,0,0,0.8)`
