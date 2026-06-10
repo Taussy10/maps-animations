@@ -20,6 +20,7 @@ This document serves as the master checklist and architecture reference for buil
 - **Strict Temporary File Directory:** Always create temporary files, scratch scripts, or intermediate data inside a `temp/` folder in the project root. Do not clutter the root directory.
 - **Media Editing Separation:** Never add background music or complex audio edits inside the Remotion timeline; handle these final adjustments inside a dedicated video editor.
 - **Image Optimization:** Always compress images. Use Remotion's `<Img>` component with local static assets (`staticFile`) instead of standard HTML `<img>` elements or remote URLs.
+- **Reusable Components:** Always create a `components/` folder inside `src/` to store isolated, reusable, and dynamic React components (e.g., Captions, Map Overlays, animated SVGs). Do not clutter the main composition files or individual scene folders with reusable components.
 
 ---
 

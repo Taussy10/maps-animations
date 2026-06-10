@@ -37,7 +37,7 @@ scenes
 1. -> Zoom on Saudi Arabia(Dark Green filled with white Glowing border) with bear 
 2 and 3 show the text on black screen but this time we want to show only one word based on frame
 4. Bear and pitch and Saudi Arabia and use the SVG to animate the border 
-5 and 6 Show the Allah word coming in white bold text with green glow 
+5 and 6 Show the Allah word in Arabic coming in white bold text with green glow 
 7. Zoom out Saudi map , bear and pitch Show the city name Mecca and Mediana
 8. same as scene 2 animation
 9. An emoji nodding his head left right on saudi Arabia map

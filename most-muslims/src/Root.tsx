@@ -6,21 +6,13 @@ import { Comp1 } from "./comp-1/Comp1";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
-      <Composition
-        id="MyComp"
-        component={MyComposition}
-        durationInFrames={60}
-        fps={30}
-        width={1280}
-        height={720}
-      />
-      <Composition
+<Composition
         id="Comp1"
         component={Comp1}
-        durationInFrames={60}
+        durationInFrames={1555}
         fps={30}
-        width={1920}
-        height={1080}
+         width={1080}
+        height={1920}
       />
     </>
   );

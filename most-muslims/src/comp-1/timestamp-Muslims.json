@@ -1,0 +1,1119 @@
+{
+  "audio_file": "Muslims.mp3",
+  "fps": 30,
+  "words": [
+    {
+      "word": "Which",
+      "start": 0.0,
+      "end": 0.44,
+      "frame_start": 0,
+      "frame_end": 13
+    },
+    {
+      "word": "country",
+      "start": 0.44,
+      "end": 0.9,
+      "frame_start": 13,
+      "frame_end": 27
+    },
+    {
+      "word": "has",
+      "start": 0.9,
+      "end": 1.18,
+      "frame_start": 27,
+      "frame_end": 35
+    },
+    {
+      "word": "the",
+      "start": 1.18,
+      "end": 1.38,
+      "frame_start": 35,
+      "frame_end": 41
+    },
+    {
+      "word": "most",
+      "start": 1.38,
+      "end": 1.76,
+      "frame_start": 41,
+      "frame_end": 53
+    },
+    {
+      "word": "Muslims?",
+      "start": 1.76,
+      "end": 2.2,
+      "frame_start": 53,
+      "frame_end": 66
+    },
+    {
+      "word": "At",
+      "start": 2.5,
+      "end": 2.6,
+      "frame_start": 75,
+      "frame_end": 78
+    },
+    {
+      "word": "first,",
+      "start": 2.6,
+      "end": 2.9,
+      "frame_start": 78,
+      "frame_end": 87
+    },
+    {
+      "word": "the",
+      "start": 3.08,
+      "end": 3.12,
+      "frame_start": 92,
+      "frame_end": 94
+    },
+    {
+      "word": "answer",
+      "start": 3.12,
+      "end": 3.36,
+      "frame_start": 94,
+      "frame_end": 101
+    },
+    {
+      "word": "seems",
+      "start": 3.36,
+      "end": 3.68,
+      "frame_start": 101,
+      "frame_end": 110
+    },
+    {
+      "word": "pretty",
+      "start": 3.68,
+      "end": 3.96,
+      "frame_start": 110,
+      "frame_end": 119
+    },
+    {
+      "word": "obvious.",
+      "start": 3.96,
+      "end": 4.4,
+      "frame_start": 119,
+      "frame_end": 132
+    },
+    {
+      "word": "Most",
+      "start": 4.68,
+      "end": 4.86,
+      "frame_start": 140,
+      "frame_end": 146
+    },
+    {
+      "word": "people",
+      "start": 4.86,
+      "end": 5.12,
+      "frame_start": 146,
+      "frame_end": 154
+    },
+    {
+      "word": "would",
+      "start": 5.12,
+      "end": 5.4,
+      "frame_start": 154,
+      "frame_end": 162
+    },
+    {
+      "word": "probably",
+      "start": 5.4,
+      "end": 5.78,
+      "frame_start": 162,
+      "frame_end": 173
+    },
+    {
+      "word": "say",
+      "start": 5.78,
+      "end": 6.12,
+      "frame_start": 173,
+      "frame_end": 184
+    },
+    {
+      "word": "Saudi",
+      "start": 6.12,
+      "end": 6.48,
+      "frame_start": 184,
+      "frame_end": 194
+    },
+    {
+      "word": "Arabia.",
+      "start": 6.48,
+      "end": 6.94,
+      "frame_start": 194,
+      "frame_end": 208
+    },
+    {
+      "word": "After",
+      "start": 7.06,
+      "end": 7.32,
+      "frame_start": 212,
+      "frame_end": 220
+    },
+    {
+      "word": "all,",
+      "start": 7.32,
+      "end": 7.64,
+      "frame_start": 220,
+      "frame_end": 229
+    },
+    {
+      "word": "Islam",
+      "start": 7.88,
+      "end": 8.08,
+      "frame_start": 236,
+      "frame_end": 242
+    },
+    {
+      "word": "began",
+      "start": 8.08,
+      "end": 8.48,
+      "frame_start": 242,
+      "frame_end": 254
+    },
+    {
+      "word": "there,",
+      "start": 8.48,
+      "end": 8.9,
+      "frame_start": 254,
+      "frame_end": 267
+    },
+    {
+      "word": "and",
+      "start": 9.02,
+      "end": 9.16,
+      "frame_start": 271,
+      "frame_end": 275
+    },
+    {
+      "word": "it's",
+      "start": 9.16,
+      "end": 9.38,
+      "frame_start": 275,
+      "frame_end": 281
+    },
+    {
+      "word": "home",
+      "start": 9.38,
+      "end": 9.5,
+      "frame_start": 281,
+      "frame_end": 285
+    },
+    {
+      "word": "to",
+      "start": 9.5,
+      "end": 9.7,
+      "frame_start": 285,
+      "frame_end": 291
+    },
+    {
+      "word": "the",
+      "start": 9.7,
+      "end": 9.82,
+      "frame_start": 291,
+      "frame_end": 295
+    },
+    {
+      "word": "two",
+      "start": 9.82,
+      "end": 10.04,
+      "frame_start": 295,
+      "frame_end": 301
+    },
+    {
+      "word": "holiest",
+      "start": 10.04,
+      "end": 10.58,
+      "frame_start": 301,
+      "frame_end": 317
+    },
+    {
+      "word": "cities",
+      "start": 10.58,
+      "end": 10.94,
+      "frame_start": 317,
+      "frame_end": 328
+    },
+    {
+      "word": "in",
+      "start": 10.94,
+      "end": 11.16,
+      "frame_start": 328,
+      "frame_end": 335
+    },
+    {
+      "word": "Islam.",
+      "start": 11.16,
+      "end": 11.44,
+      "frame_start": 335,
+      "frame_end": 343
+    },
+    {
+      "word": "But",
+      "start": 11.62,
+      "end": 11.7,
+      "frame_start": 349,
+      "frame_end": 351
+    },
+    {
+      "word": "in",
+      "start": 11.7,
+      "end": 11.84,
+      "frame_start": 351,
+      "frame_end": 355
+    },
+    {
+      "word": "reality,",
+      "start": 11.84,
+      "end": 12.26,
+      "frame_start": 355,
+      "frame_end": 368
+    },
+    {
+      "word": "this",
+      "start": 12.56,
+      "end": 12.72,
+      "frame_start": 377,
+      "frame_end": 382
+    },
+    {
+      "word": "couldn't",
+      "start": 12.72,
+      "end": 13.06,
+      "frame_start": 382,
+      "frame_end": 392
+    },
+    {
+      "word": "be",
+      "start": 13.06,
+      "end": 13.2,
+      "frame_start": 392,
+      "frame_end": 396
+    },
+    {
+      "word": "further",
+      "start": 13.2,
+      "end": 13.46,
+      "frame_start": 396,
+      "frame_end": 404
+    },
+    {
+      "word": "from",
+      "start": 13.46,
+      "end": 13.7,
+      "frame_start": 404,
+      "frame_end": 411
+    },
+    {
+      "word": "the",
+      "start": 13.7,
+      "end": 13.8,
+      "frame_start": 411,
+      "frame_end": 414
+    },
+    {
+      "word": "truth.",
+      "start": 13.8,
+      "end": 14.06,
+      "frame_start": 414,
+      "frame_end": 422
+    },
+    {
+      "word": "Saudi",
+      "start": 14.32,
+      "end": 14.5,
+      "frame_start": 430,
+      "frame_end": 435
+    },
+    {
+      "word": "Arabia",
+      "start": 14.5,
+      "end": 14.92,
+      "frame_start": 435,
+      "frame_end": 448
+    },
+    {
+      "word": "has",
+      "start": 14.92,
+      "end": 15.2,
+      "frame_start": 448,
+      "frame_end": 456
+    },
+    {
+      "word": "only",
+      "start": 15.2,
+      "end": 15.5,
+      "frame_start": 456,
+      "frame_end": 465
+    },
+    {
+      "word": "35",
+      "start": 15.5,
+      "end": 16.1,
+      "frame_start": 465,
+      "frame_end": 483
+    },
+    {
+      "word": "million",
+      "start": 16.1,
+      "end": 16.72,
+      "frame_start": 483,
+      "frame_end": 502
+    },
+    {
+      "word": "Muslims.",
+      "start": 16.72,
+      "end": 17.16,
+      "frame_start": 502,
+      "frame_end": 515
+    },
+    {
+      "word": "Some",
+      "start": 17.48,
+      "end": 17.7,
+      "frame_start": 524,
+      "frame_end": 531
+    },
+    {
+      "word": "people",
+      "start": 17.7,
+      "end": 17.96,
+      "frame_start": 531,
+      "frame_end": 539
+    },
+    {
+      "word": "might",
+      "start": 17.96,
+      "end": 18.24,
+      "frame_start": 539,
+      "frame_end": 547
+    },
+    {
+      "word": "even",
+      "start": 18.24,
+      "end": 18.48,
+      "frame_start": 547,
+      "frame_end": 554
+    },
+    {
+      "word": "guess",
+      "start": 18.48,
+      "end": 18.68,
+      "frame_start": 554,
+      "frame_end": 560
+    },
+    {
+      "word": "the",
+      "start": 18.68,
+      "end": 18.88,
+      "frame_start": 560,
+      "frame_end": 566
+    },
+    {
+      "word": "United",
+      "start": 18.88,
+      "end": 19.12,
+      "frame_start": 566,
+      "frame_end": 574
+    },
+    {
+      "word": "Kingdom.",
+      "start": 19.12,
+      "end": 19.54,
+      "frame_start": 574,
+      "frame_end": 586
+    },
+    {
+      "word": "After",
+      "start": 19.8,
+      "end": 20.0,
+      "frame_start": 594,
+      "frame_end": 600
+    },
+    {
+      "word": "all,",
+      "start": 20.0,
+      "end": 20.34,
+      "frame_start": 600,
+      "frame_end": 610
+    },
+    {
+      "word": "Mohammed",
+      "start": 20.5,
+      "end": 20.82,
+      "frame_start": 615,
+      "frame_end": 625
+    },
+    {
+      "word": "has",
+      "start": 20.82,
+      "end": 21.06,
+      "frame_start": 625,
+      "frame_end": 632
+    },
+    {
+      "word": "been",
+      "start": 21.06,
+      "end": 21.24,
+      "frame_start": 632,
+      "frame_end": 637
+    },
+    {
+      "word": "one",
+      "start": 21.24,
+      "end": 21.42,
+      "frame_start": 637,
+      "frame_end": 643
+    },
+    {
+      "word": "of",
+      "start": 21.42,
+      "end": 21.56,
+      "frame_start": 643,
+      "frame_end": 647
+    },
+    {
+      "word": "the",
+      "start": 21.56,
+      "end": 21.64,
+      "frame_start": 647,
+      "frame_end": 649
+    },
+    {
+      "word": "most",
+      "start": 21.64,
+      "end": 21.8,
+      "frame_start": 649,
+      "frame_end": 654
+    },
+    {
+      "word": "popular",
+      "start": 21.8,
+      "end": 22.3,
+      "frame_start": 654,
+      "frame_end": 669
+    },
+    {
+      "word": "baby",
+      "start": 22.3,
+      "end": 22.64,
+      "frame_start": 669,
+      "frame_end": 679
+    },
+    {
+      "word": "names",
+      "start": 22.64,
+      "end": 22.92,
+      "frame_start": 679,
+      "frame_end": 688
+    },
+    {
+      "word": "in",
+      "start": 22.92,
+      "end": 23.14,
+      "frame_start": 688,
+      "frame_end": 694
+    },
+    {
+      "word": "UK,",
+      "start": 23.14,
+      "end": 23.44,
+      "frame_start": 694,
+      "frame_end": 703
+    },
+    {
+      "word": "but",
+      "start": 23.76,
+      "end": 23.84,
+      "frame_start": 713,
+      "frame_end": 715
+    },
+    {
+      "word": "the",
+      "start": 23.84,
+      "end": 24.0,
+      "frame_start": 715,
+      "frame_end": 720
+    },
+    {
+      "word": "UK",
+      "start": 24.0,
+      "end": 24.28,
+      "frame_start": 720,
+      "frame_end": 728
+    },
+    {
+      "word": "doesn't",
+      "start": 24.28,
+      "end": 24.76,
+      "frame_start": 728,
+      "frame_end": 743
+    },
+    {
+      "word": "even",
+      "start": 24.76,
+      "end": 24.94,
+      "frame_start": 743,
+      "frame_end": 748
+    },
+    {
+      "word": "have",
+      "start": 24.94,
+      "end": 25.2,
+      "frame_start": 748,
+      "frame_end": 756
+    },
+    {
+      "word": "5",
+      "start": 25.2,
+      "end": 25.56,
+      "frame_start": 756,
+      "frame_end": 767
+    },
+    {
+      "word": "million",
+      "start": 25.56,
+      "end": 25.94,
+      "frame_start": 767,
+      "frame_end": 778
+    },
+    {
+      "word": "Muslims.",
+      "start": 25.94,
+      "end": 26.38,
+      "frame_start": 778,
+      "frame_end": 791
+    },
+    {
+      "word": "In",
+      "start": 26.38,
+      "end": 26.84,
+      "frame_start": 791,
+      "frame_end": 805
+    },
+    {
+      "word": "fact,",
+      "start": 26.84,
+      "end": 27.14,
+      "frame_start": 805,
+      "frame_end": 814
+    },
+    {
+      "word": "most",
+      "start": 27.36,
+      "end": 27.62,
+      "frame_start": 821,
+      "frame_end": 829
+    },
+    {
+      "word": "of",
+      "start": 27.62,
+      "end": 27.8,
+      "frame_start": 829,
+      "frame_end": 834
+    },
+    {
+      "word": "the",
+      "start": 27.8,
+      "end": 27.9,
+      "frame_start": 834,
+      "frame_end": 837
+    },
+    {
+      "word": "world's",
+      "start": 27.9,
+      "end": 28.24,
+      "frame_start": 837,
+      "frame_end": 847
+    },
+    {
+      "word": "Muslims",
+      "start": 28.24,
+      "end": 28.58,
+      "frame_start": 847,
+      "frame_end": 857
+    },
+    {
+      "word": "don't",
+      "start": 28.58,
+      "end": 28.98,
+      "frame_start": 857,
+      "frame_end": 869
+    },
+    {
+      "word": "even",
+      "start": 28.98,
+      "end": 29.1,
+      "frame_start": 869,
+      "frame_end": 873
+    },
+    {
+      "word": "live",
+      "start": 29.1,
+      "end": 29.38,
+      "frame_start": 873,
+      "frame_end": 881
+    },
+    {
+      "word": "in",
+      "start": 29.38,
+      "end": 29.52,
+      "frame_start": 881,
+      "frame_end": 886
+    },
+    {
+      "word": "the",
+      "start": 29.52,
+      "end": 29.6,
+      "frame_start": 886,
+      "frame_end": 888
+    },
+    {
+      "word": "Middle",
+      "start": 29.6,
+      "end": 29.76,
+      "frame_start": 888,
+      "frame_end": 893
+    },
+    {
+      "word": "East.",
+      "start": 29.76,
+      "end": 30.22,
+      "frame_start": 893,
+      "frame_end": 907
+    },
+    {
+      "word": "A",
+      "start": 30.36,
+      "end": 30.46,
+      "frame_start": 911,
+      "frame_end": 914
+    },
+    {
+      "word": "huge",
+      "start": 30.46,
+      "end": 30.82,
+      "frame_start": 914,
+      "frame_end": 925
+    },
+    {
+      "word": "share",
+      "start": 30.82,
+      "end": 31.12,
+      "frame_start": 925,
+      "frame_end": 934
+    },
+    {
+      "word": "of",
+      "start": 31.12,
+      "end": 31.3,
+      "frame_start": 934,
+      "frame_end": 939
+    },
+    {
+      "word": "them",
+      "start": 31.3,
+      "end": 31.44,
+      "frame_start": 939,
+      "frame_end": 943
+    },
+    {
+      "word": "live",
+      "start": 31.44,
+      "end": 31.62,
+      "frame_start": 943,
+      "frame_end": 949
+    },
+    {
+      "word": "across",
+      "start": 31.62,
+      "end": 31.9,
+      "frame_start": 949,
+      "frame_end": 957
+    },
+    {
+      "word": "South",
+      "start": 31.9,
+      "end": 32.36,
+      "frame_start": 957,
+      "frame_end": 971
+    },
+    {
+      "word": "and",
+      "start": 32.36,
+      "end": 32.54,
+      "frame_start": 971,
+      "frame_end": 976
+    },
+    {
+      "word": "Southeast",
+      "start": 32.54,
+      "end": 32.84,
+      "frame_start": 976,
+      "frame_end": 985
+    },
+    {
+      "word": "Asia.",
+      "start": 32.84,
+      "end": 33.4,
+      "frame_start": 985,
+      "frame_end": 1002
+    },
+    {
+      "word": "Together,",
+      "start": 33.6,
+      "end": 33.8,
+      "frame_start": 1008,
+      "frame_end": 1014
+    },
+    {
+      "word": "these",
+      "start": 34.1,
+      "end": 34.24,
+      "frame_start": 1023,
+      "frame_end": 1027
+    },
+    {
+      "word": "regions",
+      "start": 34.24,
+      "end": 34.66,
+      "frame_start": 1027,
+      "frame_end": 1040
+    },
+    {
+      "word": "are",
+      "start": 34.66,
+      "end": 34.84,
+      "frame_start": 1040,
+      "frame_end": 1045
+    },
+    {
+      "word": "home",
+      "start": 34.84,
+      "end": 35.06,
+      "frame_start": 1045,
+      "frame_end": 1052
+    },
+    {
+      "word": "to",
+      "start": 35.06,
+      "end": 35.22,
+      "frame_start": 1052,
+      "frame_end": 1057
+    },
+    {
+      "word": "more",
+      "start": 35.22,
+      "end": 35.46,
+      "frame_start": 1057,
+      "frame_end": 1064
+    },
+    {
+      "word": "than",
+      "start": 35.46,
+      "end": 35.64,
+      "frame_start": 1064,
+      "frame_end": 1069
+    },
+    {
+      "word": "half",
+      "start": 35.64,
+      "end": 36.0,
+      "frame_start": 1069,
+      "frame_end": 1080
+    },
+    {
+      "word": "of",
+      "start": 36.0,
+      "end": 36.22,
+      "frame_start": 1080,
+      "frame_end": 1087
+    },
+    {
+      "word": "the",
+      "start": 36.22,
+      "end": 36.32,
+      "frame_start": 1087,
+      "frame_end": 1090
+    },
+    {
+      "word": "world's",
+      "start": 36.32,
+      "end": 36.7,
+      "frame_start": 1090,
+      "frame_end": 1101
+    },
+    {
+      "word": "Muslim",
+      "start": 36.7,
+      "end": 37.04,
+      "frame_start": 1101,
+      "frame_end": 1111
+    },
+    {
+      "word": "population.",
+      "start": 37.04,
+      "end": 37.62,
+      "frame_start": 1111,
+      "frame_end": 1129
+    },
+    {
+      "word": "And",
+      "start": 37.9,
+      "end": 37.98,
+      "frame_start": 1137,
+      "frame_end": 1139
+    },
+    {
+      "word": "the",
+      "start": 37.98,
+      "end": 38.12,
+      "frame_start": 1139,
+      "frame_end": 1144
+    },
+    {
+      "word": "country",
+      "start": 38.12,
+      "end": 38.4,
+      "frame_start": 1144,
+      "frame_end": 1152
+    },
+    {
+      "word": "with",
+      "start": 38.4,
+      "end": 38.6,
+      "frame_start": 1152,
+      "frame_end": 1158
+    },
+    {
+      "word": "the",
+      "start": 38.6,
+      "end": 38.72,
+      "frame_start": 1158,
+      "frame_end": 1162
+    },
+    {
+      "word": "most",
+      "start": 38.72,
+      "end": 39.02,
+      "frame_start": 1162,
+      "frame_end": 1171
+    },
+    {
+      "word": "Muslims",
+      "start": 39.02,
+      "end": 39.42,
+      "frame_start": 1171,
+      "frame_end": 1183
+    },
+    {
+      "word": "in",
+      "start": 39.42,
+      "end": 39.64,
+      "frame_start": 1183,
+      "frame_end": 1189
+    },
+    {
+      "word": "the",
+      "start": 39.64,
+      "end": 39.74,
+      "frame_start": 1189,
+      "frame_end": 1192
+    },
+    {
+      "word": "world",
+      "start": 39.74,
+      "end": 40.04,
+      "frame_start": 1192,
+      "frame_end": 1201
+    },
+    {
+      "word": "is...",
+      "start": 40.04,
+      "end": 40.84,
+      "frame_start": 1201,
+      "frame_end": 1225
+    },
+    {
+      "word": "Indonesia.",
+      "start": 41.74,
+      "end": 42.26,
+      "frame_start": 1252,
+      "frame_end": 1268
+    },
+    {
+      "word": "Indonesia",
+      "start": 42.82,
+      "end": 43.1,
+      "frame_start": 1285,
+      "frame_end": 1293
+    },
+    {
+      "word": "is",
+      "start": 43.1,
+      "end": 43.46,
+      "frame_start": 1293,
+      "frame_end": 1304
+    },
+    {
+      "word": "home",
+      "start": 43.46,
+      "end": 43.64,
+      "frame_start": 1304,
+      "frame_end": 1309
+    },
+    {
+      "word": "to",
+      "start": 43.64,
+      "end": 43.8,
+      "frame_start": 1309,
+      "frame_end": 1314
+    },
+    {
+      "word": "roughly",
+      "start": 43.8,
+      "end": 44.14,
+      "frame_start": 1314,
+      "frame_end": 1324
+    },
+    {
+      "word": "240",
+      "start": 44.14,
+      "end": 45.0,
+      "frame_start": 1324,
+      "frame_end": 1350
+    },
+    {
+      "word": "million",
+      "start": 45.0,
+      "end": 45.86,
+      "frame_start": 1350,
+      "frame_end": 1376
+    },
+    {
+      "word": "Muslims,",
+      "start": 45.86,
+      "end": 46.48,
+      "frame_start": 1376,
+      "frame_end": 1394
+    },
+    {
+      "word": "making",
+      "start": 46.6,
+      "end": 46.86,
+      "frame_start": 1398,
+      "frame_end": 1406
+    },
+    {
+      "word": "it",
+      "start": 46.86,
+      "end": 47.04,
+      "frame_start": 1406,
+      "frame_end": 1411
+    },
+    {
+      "word": "the",
+      "start": 47.04,
+      "end": 47.18,
+      "frame_start": 1411,
+      "frame_end": 1415
+    },
+    {
+      "word": "largest",
+      "start": 47.18,
+      "end": 47.58,
+      "frame_start": 1415,
+      "frame_end": 1427
+    },
+    {
+      "word": "Muslim",
+      "start": 47.58,
+      "end": 48.06,
+      "frame_start": 1427,
+      "frame_end": 1442
+    },
+    {
+      "word": "population",
+      "start": 48.06,
+      "end": 48.6,
+      "frame_start": 1442,
+      "frame_end": 1458
+    },
+    {
+      "word": "on",
+      "start": 48.6,
+      "end": 48.88,
+      "frame_start": 1458,
+      "frame_end": 1466
+    },
+    {
+      "word": "Earth.",
+      "start": 48.88,
+      "end": 49.16,
+      "frame_start": 1466,
+      "frame_end": 1475
+    },
+    {
+      "word": "Anyway,",
+      "start": 49.3,
+      "end": 49.54,
+      "frame_start": 1479,
+      "frame_end": 1486
+    },
+    {
+      "word": "if",
+      "start": 49.8,
+      "end": 49.9,
+      "frame_start": 1494,
+      "frame_end": 1497
+    },
+    {
+      "word": "you",
+      "start": 49.9,
+      "end": 50.02,
+      "frame_start": 1497,
+      "frame_end": 1501
+    },
+    {
+      "word": "learned",
+      "start": 50.02,
+      "end": 50.26,
+      "frame_start": 1501,
+      "frame_end": 1508
+    },
+    {
+      "word": "something,",
+      "start": 50.26,
+      "end": 50.64,
+      "frame_start": 1508,
+      "frame_end": 1519
+    },
+    {
+      "word": "hit",
+      "start": 50.92,
+      "end": 51.06,
+      "frame_start": 1528,
+      "frame_end": 1532
+    },
+    {
+      "word": "that",
+      "start": 51.06,
+      "end": 51.28,
+      "frame_start": 1532,
+      "frame_end": 1538
+    },
+    {
+      "word": "red",
+      "start": 51.28,
+      "end": 51.5,
+      "frame_start": 1538,
+      "frame_end": 1545
+    },
+    {
+      "word": "button.",
+      "start": 51.5,
+      "end": 51.84,
+      "frame_start": 1545,
+      "frame_end": 1555
+    }
+  ]
+}

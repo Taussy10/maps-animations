@@ -1,0 +1,41 @@
+{
+  "cameraKeyframes": [
+    {
+      "frame": 0,
+      "center": [45.0, 24.0],
+      "zoom": 3.0,
+      "pitch": 0,
+      "bearing": 0
+    },
+    {
+      "frame": 66,
+      "center": [45.0, 24.0],
+      "zoom": 4.5,
+      "pitch": 40,
+      "bearing": 15
+    },
+    {
+      "frame": 133,
+      "center": [45.0, 24.0],
+      "zoom": 4.5,
+      "pitch": 40,
+      "bearing": 15
+    },
+    {
+      "frame": 208,
+      "center": [45.0, 24.0],
+      "zoom": 5.2,
+      "pitch": 55,
+      "bearing": 35
+    }
+  ],
+  "mapHighlights": [
+    {
+      "country": "saudi_arabia",
+      "color": "#004000",
+      "borderColor": "#FFFFFF",
+      "borderWidth": 4,
+      "opacity": 0.8
+    }
+  ]
+}
