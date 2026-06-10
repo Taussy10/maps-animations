@@ -7,20 +7,13 @@ export const SvgBorder: React.FC<{
   frame: number;
   startFrame: number;
   endFrame: number;
-  coordinates: number[][]; 
+  coordinates?: number[][]; 
+  multiCoordinates?: number[][][][];
   color: string;
-}> = ({ map, frame, startFrame, endFrame, coordinates, color }) => {
+}> = ({ map, frame, startFrame, endFrame, coordinates, multiCoordinates, color }) => {
   const { width, height } = useVideoConfig();
 
   if (frame < startFrame) return null;
-
-  // Convert map coordinates to pixel coordinates
-  const pathPoints = coordinates.map(coord => {
-    const projected = map.project([coord[0], coord[1]]);
-    return `${projected.x},${projected.y}`;
-  });
-
-  const svgPathData = `M ${pathPoints.join(" L ")} Z`;
 
   const dashOffset = interpolate(
     frame,
@@ -29,10 +22,32 @@ export const SvgBorder: React.FC<{
     { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) }
   );
 
+  let paths: string[] = [];
+
+  if (coordinates) {
+    const pathPoints = coordinates.map(coord => {
+      const projected = map.project([coord[0], coord[1]]);
+      return `${projected.x},${projected.y}`;
+    });
+    paths.push(`M ${pathPoints.join(" L ")} Z`);
+  }
+
+  if (multiCoordinates) {
+    multiCoordinates.forEach(polygon => {
+      polygon.forEach(ring => {
+        const pathPoints = ring.map(coord => {
+          const projected = map.project([coord[0], coord[1]]);
+          return `${projected.x},${projected.y}`;
+        });
+        paths.push(`M ${pathPoints.join(" L ")} Z`);
+      });
+    });
+  }
+
   return (
     <svg style={{ position: "absolute", top: 0, left: 0, width, height, pointerEvents: "none", zIndex: 10 }}>
       <defs>
-        <filter id="glow">
+        <filter id={`glow-${color.replace('#', '')}`}>
           <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
           <feMerge>
             <feMergeNode in="coloredBlur"/>
@@ -40,16 +55,19 @@ export const SvgBorder: React.FC<{
           </feMerge>
         </filter>
       </defs>
-      <path
-        d={svgPathData}
-        fill="none"
-        stroke={color}
-        strokeWidth={6}
-        pathLength="100"
-        strokeDasharray="100"
-        strokeDashoffset={dashOffset}
-        filter="url(#glow)"
-      />
+      {paths.map((p, i) => (
+        <path
+          key={i}
+          d={p}
+          fill="none"
+          stroke={color}
+          strokeWidth={6}
+          pathLength="100"
+          strokeDasharray="100"
+          strokeDashoffset={dashOffset}
+          filter={`url(#glow-${color.replace('#', '')})`}
+        />
+      ))}
     </svg>
   );
 };

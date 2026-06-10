@@ -11,3 +11,8 @@ import { enableTailwind } from '@remotion/tailwind-v4';
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
 Config.overrideWebpackConfig(enableTailwind);
+
+Config.setChromiumHeadlessMode(false);
+Config.setChromiumDisableWebSecurity(true);
+Config.setChromiumOpenGlRenderer("angle");
+Config.setOffthreadVideoCacheSizeInBytes(1024 * 1024 * 500); // 500MB

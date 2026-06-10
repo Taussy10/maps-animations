@@ -48,9 +48,9 @@ scenes
 15. same animation as scene 2
 16. Cut the clip zoom out enough that whole middle east can be shown then add the red cross on middle east 
 17. Cut the clip zoom out enough that whole South and South East Asia can be shown then add the green tick on South and South East Asia
-18 and 19. 
+18 and 19. Create a pie chart animation completing 50% in solid white color on top of the map.
 20. same animation as 2 
 21. zoom out lil bit show the Indonesia map(in Red and white glowing border) 
 22. Zoom in close to indonesia start animating border in white glowing and start countdown till 240
 23. bear and pitch on indonesia and add fill muslim icon on indonesia all over 
-24. Still bear and pitch on indonnesia Show the subsriber animation 
+24. Still bear and pitch on indonnesia Show the subsriber animation

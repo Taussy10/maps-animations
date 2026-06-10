@@ -10,7 +10,7 @@
     {
       "frame": 66,
       "center": [45.0, 24.0],
-      "zoom": 4.5,
+      "zoom": 6.5,
       "pitch": 40,
       "bearing": 15
     },
@@ -27,6 +27,132 @@
       "zoom": 5.2,
       "pitch": 55,
       "bearing": 35
+    },
+    {
+      "frame": 267,
+      "center": [45.0, 24.0],
+      "zoom": 5.2,
+      "pitch": 55,
+      "bearing": 35
+    },
+    {
+      "frame": 343,
+      "center": [42.0, 23.0],
+      "zoom": 4.5,
+      "pitch": 40,
+      "bearing": 15
+    },
+    {
+      "frame": 423,
+      "center": [45.0, 24.0],
+      "zoom": 5.2,
+      "pitch": 55,
+      "bearing": 35
+    },
+    {
+      "frame": 515,
+      "center": [45.0, 24.0],
+      "zoom": 5.8,
+      "pitch": 40,
+      "bearing": 10
+    },
+    {
+      "frame": 516,
+      "center": [-2.0, 54.0],
+      "zoom": 4.5,
+      "pitch": 40,
+      "bearing": 0
+    },
+    {
+      "frame": 582,
+      "center": [-2.0, 54.0],
+      "zoom": 4.5,
+      "pitch": 40,
+      "bearing": 0
+    },
+     {
+      "frame": 703,
+      "center": [-2.0, 54.0],
+      "zoom": 5.5,
+      "pitch": 40,
+      "bearing": 0
+    },
+    {
+      "frame": 704,
+      "center": [-2.0, 54.0],
+      "zoom": 5.0,
+      "pitch": 45,
+      "bearing": 10
+    },
+    {
+      "frame": 791,
+      "center": [-2.0, 54.0],
+      "zoom": 5.5,
+      "pitch": 50,
+      "bearing": 20
+    },
+    {
+      "frame": 815,
+      "center": [45.0, 25.0],
+      "zoom": 3.5,
+      "pitch": 10,
+      "bearing": 0
+    },
+    {
+      "frame": 907,
+      "center": [45.0, 25.0],
+      "zoom": 3.7,
+      "pitch": 15,
+      "bearing": 5
+    },
+    {
+      "frame": 908,
+      "center": [95.0, 15.0],
+      "zoom": 3.0,
+      "pitch": 20,
+      "bearing": 0
+    },
+    {
+      "frame": 1002,
+      "center": [95.0, 15.0],
+      "zoom": 3.2,
+      "pitch": 25,
+      "bearing": 5
+    },
+    {
+      "frame": 1129,
+      "center": [105.0, 5.0],
+      "zoom": 3.5,
+      "pitch": 30,
+      "bearing": 10
+    },
+    {
+      "frame": 1226,
+      "center": [113.9, -0.7],
+      "zoom": 3.5,
+      "pitch": 30,
+      "bearing": 0
+    },
+    {
+      "frame": 1268,
+      "center": [113.9, -0.7],
+      "zoom": 6.0,
+      "pitch": 35,
+      "bearing": 10
+    },
+    {
+      "frame": 1269,
+      "center": [113.9, -0.7],
+      "zoom": 5.0,
+      "pitch": 35,
+      "bearing": 10
+    },
+    {
+      "frame": 1394,
+      "center": [113.9, -0.7],
+      "zoom": 5.0,
+      "pitch": 45,
+      "bearing": 20
     }
   ],
   "mapHighlights": [
@@ -36,6 +162,71 @@
       "borderColor": "#FFFFFF",
       "borderWidth": 4,
       "opacity": 0.8
+    },
+    {
+      "country": "united_kingdom",
+      "color": "#2b7fff",
+      "borderColor": "#FFFFFF",
+      "borderWidth": 4,
+      "opacity": 0.8
+    },
+
+    {
+      "country": "indonesia",
+      "color": "#FF0000",
+      "borderColor": "#FFFFFF",
+      "borderWidth": 4,
+      "opacity": 0.8
+    }
+  ],
+  "statCards": [
+    {
+      "startValue": 0,
+      "endValue": 35,
+      "fadeIn": [423, 428],
+      "countDuration": [428, 500],
+      "fadeOut": [510, 515],
+      "coords": [45.0, 24.0],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": "bold",
+        "fontSize": "120px",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #00FF00, 0 0 40px #00FF00, 0 8px 10px rgba(0,0,0,0.8)"
+      }
+    },
+    {
+      "startValue": 0,
+      "endValue": 5,
+      "fadeIn": [704, 709],
+      "countDuration": [709, 780],
+      "fadeOut": [785, 791],
+      "coords": [-2.0, 54.0],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": "bold",
+        "fontSize": "120px",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #0088FF, 0 0 40px #0088FF, 0 8px 10px rgba(0,0,0,0.8)"
+      }
+    },
+    {
+      "startValue": 0,
+      "endValue": 240,
+      "fadeIn": [1269, 1274],
+      "countDuration": [1274, 1370],
+      "fadeOut": [1389, 1394],
+      "coords": [113.9, -0.7],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": "bold",
+        "fontSize": "120px",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #FF0000, 0 0 40px #FF0000, 0 8px 10px rgba(0,0,0,0.8)"
+      }
     }
   ]
 }

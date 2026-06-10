@@ -1,5 +1,5 @@
 import React from "react";
-import timestamps from "./timestamp-Muslims.json";
+import timestamps from "../comp-1/timestamp-Muslims.json";
 
 interface WordEntry {
   word: string;
