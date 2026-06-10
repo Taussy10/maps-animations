@@ -8,28 +8,6 @@
 "_comment": "",
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # NOTE -> YOU SHOULD neither READ/WRITE/MODIFY THIS FILE WITHOUT MY pERMISSION
 # Kosovo vs Serbia Scene Structure
 This document details the exact frame boundaries and text for each scene generated from the audio voiceover.
@@ -40,28 +18,28 @@ This document details the exact frame boundaries and text for each scene generat
 | **Scene 2** | `2.46 - 5.14` | `62 - 154` (Visuals cut at `62`, audio/countdown starts at `74`) | "Kosovo is home to around 1.6 million people," |
 | **Scene 3** | `5.28 - 8.02` | `155 - 241` (Visuals cut at `155`, audio/countdown starts at `158`) | "while Serbia is home to around 6.6 million people." |
 | **Scene 4** | `8.18 - 11.72` | `242 - 352` (Visuals cut at `242`, audio/shapes start at `245`) | "This makes Serbia home to roughly 4 times as many people as Kosovo." |
-| **Scene 5** | `11.86 - 14.44` | `356 - 433` | "Kosovo's largest cities are Pristina and Prisren." |
-| **Scene 6** | `14.6 - 17.06` | `438 - 512` | "Serbia's largest cities are Belgrade and Novi Sad." |
-| **Scene 7** | `17.24 - 21.86` | `517 - 656` | "Kosovo's 4,212 square miles make it one of the smallest countries in Europe." |
-| **Scene 8** | `22.02 - 27.76` | `661 - 833` | "Serbia's 34,116 square miles make it over 8 times larger than Kosovo." |
-| **Scene 9** | `27.76 - 30.3` | `833 - 909` | "Kosovo has a GDP of around $11 billion," |
-| **Scene 10** | `30.86 - 33.3` | `926 - 999` | "while Serbia has a GDP of over $80 billion." |
-| **Scene 11** | `33.98 - 34.62` | `1019 - 1039` | "In Kosovo," |
-| **Scene 12** | `34.76 - 37.38` | `1043 - 1121` | "the average person earns around $6 ,000 a year." |
-| **Scene 13** | `37.62 - 40.52` | `1129 - 1216` | "Serbia's GDP per capita is around $13 ,000," |
-| **Scene 14** | `41.04 - 42.24` | `1231 - 1267` | "roughly twice as high." |
-| **Scene 15** | `42.48 - 44.08` | `1274 - 1322` | "Kosovo's most famous singer?" |
-| **Scene 16** | `44.32 - 44.94` | `1330 - 1348` | "Dua Lipa." |
-| **Scene 17** | `45.02 - 45.8` | `1351 - 1374` | "And Serbia's?" |
-| **Scene 18** | `45.96 - 46.24` | `1379 - 1387` | "Ceca," |
-| **Scene 19** | `46.44 - 48.88` | `1393 - 1466` | "whom unfortunately no one knows outside Serbia." |
-| **Scene 20** | `49.08 - 50.42` | `1472 - 1513` | "Now for the controversial stuff." |
-| **Scene 21** | `50.66 - 53.1` | `1520 - 1593` | "Serbia is like a guy who got dumped by his girlfriend," |
-| **Scene 22** | `53.34 - 55.32` | `1600 - 1660` | "but couldn't move on and still thinks about her." |
-| **Scene 23** | `55.32 - 55.66` | `1660 - 1670` | "Yeah," |
-| **Scene 24** | `55.8 - 58.06` | `1674 - 1742` | "Serbia does not recognize Kosovo as a country," |
-| **Scene 25** | `58.22 - 60.8` | `1747 - 1824` | "even though Kosovo declared its independence in 2008." |
-| **Scene 26** | `61.06 - 62.74` | `1832 - 1882` | "So what comparison do you want to see next?" |
+| **Scene 5** | `11.86 - 14.44` | `353 - 433` (Visuals cut at `353`, cities fade in starting at `365`) | "Kosovo's largest cities are Pristina and Prisren." |
+| **Scene 6** | `14.6 - 17.06` | `434 - 512` (Visuals cut at `434`, cities fade in starting at `450`) | "Serbia's largest cities are Belgrade and Novi Sad." |
+| **Scene 7** | `17.24 - 21.86` | `513 - 656` (Visuals cut at `513`, countdown starts at `522`, border starts at `513`) | "Kosovo's 4,212 square miles make it one of the smallest countries in Europe." |
+| **Scene 8** | `22.02 - 27.76` | `657 - 833` (Visuals cut at `657`, countdown starts at `661`) | "Serbia's 34,116 square miles make it over 8 times larger than Kosovo." |
+| **Scene 9** | `27.76 - 30.3` | `833 - 909` (No gap) | "Kosovo has a GDP of around $11 billion," |
+| **Scene 10** | `30.86 - 33.3` | `910 - 999` (Visuals cut at `910`, countdown starts at `926`) | "while Serbia has a GDP of over $80 billion." |
+| **Scene 11** | `33.98 - 34.62` | `1000 - 1039` (Visuals cut at `1000`, audio starts at `1019`) | "In Kosovo," |
+| **Scene 12** | `34.76 - 37.38` | `1040 - 1121` (Visuals cut at `1040`, countdown starts at `1043`) | "the average person earns around $6 ,000 a year." |
+| **Scene 13** | `37.62 - 40.52` | `1122 - 1216` (Visuals cut at `1122`, countdown starts at `1129`) | "Serbia's GDP per capita is around $13 ,000," |
+| **Scene 14** | `41.04 - 42.24` | `1217 - 1267` (Visuals cut at `1217`, audio starts at `1231`) | "roughly twice as high." |
+| **Scene 15** | `42.48 - 44.08` | `1268 - 1322` (Visuals cut at `1268`, audio starts at `1274`) | "Kosovo's most famous singer?" |
+| **Scene 16** | `44.32 - 44.94` | `1323 - 1348` (Visuals cut at `1323`, audio starts at `1330`) | "Dua Lipa." |
+| **Scene 17** | `45.02 - 45.8` | `1349 - 1374` (Visuals cut at `1349`, audio starts at `1351`) | "And Serbia's?" |
+| **Scene 18** | `45.96 - 46.24` | `1375 - 1387` (Visuals cut at `1375`, audio starts at `1379`) | "Ceca," |
+| **Scene 19** | `46.44 - 48.88` | `1388 - 1466` (Visuals cut at `1388`, audio starts at `1393`) | "whom unfortunately no one knows outside Serbia." |
+| **Scene 20** | `49.08 - 50.42` | `1467 - 1513` (Visuals cut at `1467`, audio starts at `1472`) | "Now for the controversial stuff." |
+| **Scene 21** | `50.66 - 53.1` | `1514 - 1593` (Visuals cut at `1514`, audio starts at `1520`) | "Serbia is like a guy who got dumped by his girlfriend," |
+| **Scene 22** | `53.34 - 55.32` | `1594 - 1660` (Visuals cut at `1594`, audio starts at `1600`) | "but couldn't move on and still thinks about her." |
+| **Scene 23** | `55.32 - 55.66` | `1660 - 1670` (No gap) | "Yeah," |
+| **Scene 24** | `55.8 - 58.06` | `1671 - 1742` (Visuals cut at `1671`, audio starts at `1674`) | "Serbia does not recognize Kosovo as a country," |
+| **Scene 25** | `58.22 - 60.8` | `1743 - 1824` (Visuals cut at `1743`, audio starts at `1747`) | "even though Kosovo declared its independence in 2008." |
+| **Scene 26** | `61.06 - 62.74` | `1825 - 1882` (Visuals cut at `1825`, audio starts at `1832`) | "So what comparison do you want to see next?" |
  
 One thing -> when you start any seesion then say read the GEMINI.md file 
 scnes -> 
@@ -93,4 +71,45 @@ Camera View: camera remains focused on Serbia with a subtle drift (visual cut ea
       • Serbia remains highlighted in red.
       • Kosovo remains uncolored.
 
-5. Keep zoom out on Kosovo map and write the Kosvo city name on their locaiton in white solid text 
+5.
+Camera View: camera zooms out on Kosovo (visual cut early at frame 353) Focus on Kosovo ->
+  • Kosovo Styling:
+      • Kosovo remains highlighted in blue.
+      • City dot markers and names (Pristina and Prizren) are rendered at their exact map coordinates in solid white text with a thick black outline.
+      • Pristina fades in first at frame 365, followed by Prizren at frame 395 (staggered entrance). 
+      
+Scene 6 same as scene 5 but for serbia 
+
+Scnee 7 -> Show the kosovo and and intially no border white glowing color then start border aniamtion and complete it 
+white glowing color and countdown timer till 4212 no units and in between you can leave some numbers btw color for this white text with blue glowing color same as we use in previous scene 2 
+ 
+ 8 do the same for serbia but with serbia color -> white and red as stroke glowing and do countdown and put 8 kosvo inside serbia check svg folder 
+ 
+  9. create money svg and add it on kosvo map ad do countdown timer till 11 billion 
+
+  10. same for serbia but more svg cash then kosovo countdown timer till 80 btw in between you can leave the numbers 
+
+  11 and 12. create broke man svg  and add it on kosvo map ad do countdown timer till 6000 no units btw in between you can leave numbers 
+
+   13. same for serbia but for rich man and serbians colors
+   14. add two kosovo in serbia 
+   15. create a black screen with White text bold text and as the speaker say it h should change in yellow text btw  
+   16. I wil take care 
+   17. same for serbia as we did in sceen 15. 
+   18. I wil take care 
+   19. Add svg animation serbia crying
+   20. same as we did in scene 15
+   21. 
+from 'Serbia is like a guy who got' create same color of serbia as kosovo and serbia red color white white glowing text 
+
+btw for this one ask ffrom AI 
+    and from dumped by his girlfriend,
+    Can we create a motion with breaking from serbia then color will change for serbia red and for kosovo blue and for both white glowing border 
+
+22. thinking serbia
+23. same as sceen fifteen
+24. serbia looking at kosvo aand becominga angry 
+25. -> hand handling kosvo map and behind it written independent and with timer going back in 2026 2008 
+ 
+   26. add subscriber animation  
+

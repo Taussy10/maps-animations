@@ -119,6 +119,293 @@
       "pitch": 43,
       "bearing": 7,
       "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 6: Zoomed out, focus on Serbia (frame 434)",
+      "frame": 434,
+      "center": [20.989, 44.016],
+      "zoom": 6.3,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 6: Subtle drift on Serbia (frame 512)",
+      "frame": 512,
+      "center": [20.989, 44.016],
+      "zoom": 6.2,
+      "pitch": 48,
+      "bearing": 0,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 7: Zoomed out, focus on Kosovo (frame 513)",
+      "frame": 513,
+      "center": [20.902, 42.602],
+      "zoom": 7.5,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 7: Static hold end, focus on Kosovo (frame 543)",
+      "frame": 543,
+      "center": [20.902, 42.602],
+      "zoom": 7.5,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 7: Subtle drift on Kosovo (frame 656)",
+      "frame": 656,
+      "center": [20.902, 42.602],
+      "zoom": 7.4,
+      "pitch": 43,
+      "bearing": 7,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 8: Zoomed out, focus on Serbia (frame 657)",
+      "frame": 657,
+      "center": [20.989, 44.016],
+      "zoom": 6.3,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 8: Static hold end, focus on Serbia (frame 687)",
+      "frame": 687,
+      "center": [20.989, 44.016],
+      "zoom": 6.3,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 8: Subtle drift on Serbia (frame 833)",
+      "frame": 833,
+      "center": [20.989, 44.016],
+      "zoom": 6.2,
+      "pitch": 48,
+      "bearing": 0,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 9: Zoomed out, focus on Kosovo (frame 833)",
+      "frame": 833,
+      "center": [20.902, 42.602],
+      "zoom": 7.0,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 9: Subtle drift on Kosovo (frame 909)",
+      "frame": 909,
+      "center": [20.902, 42.602],
+      "zoom": 6.9,
+      "pitch": 43,
+      "bearing": 5,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 10: Zoomed out, focus on Serbia (frame 909)",
+      "frame": 909,
+      "center": [20.989, 44.016],
+      "zoom": 6.3,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 10: Subtle drift on Serbia (frame 1000)",
+      "frame": 1000,
+      "center": [20.989, 44.016],
+      "zoom": 6.2,
+      "pitch": 48,
+      "bearing": 0,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 11/12: Zoomed out, focus on Kosovo (frame 1000)",
+      "frame": 1000,
+      "center": [20.902, 42.602],
+      "zoom": 7.0,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 11/12: Subtle drift on Kosovo (frame 1121)",
+      "frame": 1121,
+      "center": [20.902, 42.602],
+      "zoom": 7.9,
+      "pitch": 43,
+      "bearing": 5,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 13: Zoomed out, focus on Serbia (frame 1122)",
+      "frame": 1122,
+      "center": [20.989, 44.016],
+      "zoom": 7.9,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 13: Subtle drift on Serbia (frame 1216)",
+      "frame": 1216,
+      "center": [20.989, 44.016],
+      "zoom": 6.2,
+      "pitch": 48,
+      "bearing": 0,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 14: Zoomed out, focus on Serbia (frame 1217)",
+      "frame": 1217,
+      "center": [20.989, 44.016],
+      "zoom": 6.3,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 14: Subtle drift on Serbia (frame 1267)",
+      "frame": 1267,
+      "center": [20.989, 44.016],
+      "zoom": 6.2,
+      "pitch": 48,
+      "bearing": 0,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 16: Focus on Kosovo (frame 1323)",
+      "frame": 1323,
+      "center": [20.902, 42.602],
+      "zoom": 6.8,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 16: Pitch and bear on Kosovo (frame 1348)",
+      "frame": 1348,
+      "center": [20.902, 42.602],
+      "zoom": 6.9,
+      "pitch": 45,
+      "bearing": 8,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 18: Focus on Serbia (frame 1375)",
+      "frame": 1375,
+      "center": [20.989, 44.016],
+      "zoom": 6.3,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 18: Pitch and bear on Serbia (frame 1387)",
+      "frame": 1387,
+      "center": [20.989, 44.016],
+      "zoom": 6.4,
+      "pitch": 48,
+      "bearing": 3,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 19: Focus on Serbia crying (frame 1388)",
+      "frame": 1388,
+      "center": [20.989, 44.016],
+      "zoom": 6.1,
+      "pitch": 40,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 19: Pitch and bear on Serbia (frame 1466)",
+      "frame": 1466,
+      "center": [20.989, 44.016],
+      "zoom": 6.3,
+      "pitch": 45,
+      "bearing": 5,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 21: Focus on combined region (frame 1514)",
+      "frame": 1514,
+      "center": [21.0, 43.5],
+      "zoom": 6.2,
+      "pitch": 40,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 21: Breakaway motion begins (frame 1564)",
+      "frame": 1564,
+      "center": [21.0, 43.5],
+      "zoom": 6.2,
+      "pitch": 40,
+      "bearing": 0,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 21: Breakaway concludes, drift (frame 1593)",
+      "frame": 1593,
+      "center": [21.0, 43.5],
+      "zoom": 5.9,
+      "pitch": 45,
+      "bearing": 5,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 22: Thinking Serbia drift (frame 1660)",
+      "frame": 1660,
+      "center": [21.0, 43.5],
+      "zoom": 6.1,
+      "pitch": 48,
+      "bearing": 8
+    },
+    {
+      "_comment": "Scene 24: Serbia angry looking at Kosovo (frame 1671)",
+      "frame": 1671,
+      "center": [21.0, 43.5],
+      "zoom": 6.1,
+      "pitch": 48,
+      "bearing": 8
+    },
+    {
+      "_comment": "Scene 24: Serbia angry drift (frame 1742)",
+      "frame": 1742,
+      "center": [21.0, 43.5],
+      "zoom": 6.3,
+      "pitch": 52,
+      "bearing": 12
+    },
+    {
+      "_comment": "Scene 25: Focus on Kosovo (frame 1743)",
+      "frame": 1743,
+      "center": [20.902, 42.602],
+      "zoom": 6.2,
+      "pitch": 40,
+      "bearing": 5
+    },
+    {
+      "_comment": "Scene 25: Drift on Kosovo (frame 1824)",
+      "frame": 1824,
+      "center": [20.902, 42.602],
+      "zoom": 6.3,
+      "pitch": 43,
+      "bearing": 8,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 26: Focus on both countries (frame 1825)",
+      "frame": 1825,
+      "center": [21.0, 43.5],
+      "zoom": 6.1,
+      "pitch": 45,
+      "bearing": 0
+    },
+    {
+      "_comment": "Scene 26: Drift on both countries (frame 1899)",
+      "frame": 1899,
+      "center": [21.0, 43.5],
+      "zoom": 6.3,
+      "pitch": 48,
+      "bearing": 3,
+      "easing": "quadInOut"
     }
   ],
   "mapHighlights": [
@@ -144,9 +431,10 @@
       "offsetY": 0,
       "textStyle": {
         "fontFamily": "sans-serif",
-        "fontWeight": "normal",
+        "fontWeight": "bold",
         "fontSize": "150px",
-        "color": "#FF0000",
+        "color": "#FFFFFF",
+        "WebkitTextStroke": "3px #FF0000",
         "textShadow": "0 0 10px #FF0000, 0 0 20px #FF0000, 0 0 30px #FF0000, 0 0 40px #FF0000"
       }
     },
@@ -187,6 +475,7 @@
   ],
   "statCards": [
     {
+      "country": "kosovo",
       "startValue": 0,
       "endValue": 1.6,
       "fadeIn": [74, 79],
@@ -204,6 +493,7 @@
       }
     },
     {
+      "country": "serbia",
       "startValue": 0,
       "endValue": 6.6,
       "fadeIn": [158, 163],
@@ -211,6 +501,123 @@
       "fadeOut": [237, 241],
       "coords": [20.989, 44.55],
       "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "100px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #ff3333, 0 0 40px #ff3333, 0 0 60px #ff3333, 0 8px 10px rgba(0,0,0,0.8)",
+        "WebkitTextStroke": "3px #ff3333"
+      }
+    },
+    {
+      "country": "kosovo",
+      "startValue": 0,
+      "endValue": 4212,
+      "fadeIn": [522, 528],
+      "countDuration": [528, 580],
+      "fadeOut": [650, 656],
+      "coords": [20.902, 42.95],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "100px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #00aaff, 0 0 40px #00aaff, 0 0 60px #00aaff, 0 8px 10px rgba(0,0,0,0.8)"
+      }
+    },
+    {
+      "country": "serbia",
+      "startValue": 0,
+      "endValue": 34116,
+      "fadeIn": [661, 667],
+      "countDuration": [667, 740],
+      "fadeOut": [827, 833],
+      "coords": [20.989, 45.8],
+      "offsetY": -150,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "100px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #ff3333, 0 0 40px #ff3333, 0 0 60px #ff3333, 0 8px 10px rgba(0,0,0,0.8)",
+        "WebkitTextStroke": "3px #ff3333"
+      }
+    },
+    {
+      "country": "kosovo",
+      "startValue": 0,
+      "endValue": 11,
+      "prefix": "$",
+      "suffix": " Billion",
+      "fadeIn": [835, 840],
+      "countDuration": [840, 890],
+      "fadeOut": [905, 909],
+      "coords": [20.902, 42.95],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "80px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #00aaff, 0 0 40px #00aaff, 0 0 60px #00aaff, 0 8px 10px rgba(0,0,0,0.8)"
+      }
+    },
+    {
+      "country": "serbia",
+      "startValue": 0,
+      "endValue": 80,
+      "prefix": "$",
+      "suffix": " Billion",
+      "fadeIn": [911, 916],
+      "countDuration": [916, 970],
+      "fadeOut": [998, 1002],
+      "coords": [20.989, 45.8],
+      "offsetY": -150,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "100px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #ff3333, 0 0 40px #ff3333, 0 0 60px #ff3333, 0 8px 10px rgba(0,0,0,0.8)",
+        "WebkitTextStroke": "3px #ff3333"
+      }
+    },
+    {
+      "country": "kosovo",
+      "startValue": 0,
+      "endValue": 6000,
+      "prefix": "$",
+      "fadeIn": [1005, 1010],
+      "countDuration": [1010, 1080],
+      "fadeOut": [1116, 1121],
+      "coords": [20.902, 42.95],
+      "offsetY": -50,
+      "textStyle": {
+        "fontFamily": "monospace, sans-serif",
+        "fontWeight": 900,
+        "fontSize": "80px",
+        "letterSpacing": "0.05em",
+        "color": "#ffffff",
+        "textShadow": "0 0 20px #00aaff, 0 0 40px #00aaff, 0 0 60px #00aaff, 0 8px 10px rgba(0,0,0,0.8)"
+      }
+    },
+    {
+      "country": "serbia",
+      "startValue": 0,
+      "endValue": 13000,
+      "prefix": "$",
+      "fadeIn": [1125, 1130],
+      "countDuration": [1130, 1190],
+      "fadeOut": [1210, 1216],
+      "coords": [20.989, 45.8],
+      "offsetY": -150,
       "textStyle": {
         "fontFamily": "monospace, sans-serif",
         "fontWeight": 900,

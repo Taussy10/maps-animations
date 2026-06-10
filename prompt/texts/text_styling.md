@@ -7,12 +7,24 @@ Use these styles to create cinematic, glowing, and high-impact text overlays on 
 ## 1. Glowing "VS" Text Overlay
 Used at the start of videos to introduce the comparison. Designed with a heavy red neon glow.
 
+### Option A: White Text with Red Stroke & Red Glow (Opposite Style)
+* **Text**: `VS` (Capital and Bold)
+* **Font Family**: `sans-serif`
+* **Font Weight**: `bold` / `900`
+* **Size**: `150px`
+* **Color**: `#FFFFFF` (White)
+* **Stroke**: `3px #FF0000` (Red)
+* **Shadow Glow**: `0 0 10px #FF0000, 0 0 20px #FF0000, 0 0 30px #FF0000, 0 0 40px #FF0000`
+
+### Option B: Red Text with White Stroke & White Glow
 * **Text**: `VS` (Capital and Bold)
 * **Font Family**: `sans-serif`
 * **Font Weight**: `bold` / `900`
 * **Size**: `150px`
 * **Color**: `#FF0000` (Red)
-* **Shadow Glow**: `0 0 10px #FF0000, 0 0 20px #FF0000, 0 0 30px #FF0000, 0 0 40px #FF0000`
+* **Stroke**: `3px #FFFFFF` (White)
+* **Shadow Glow**: `0 0 10px #FFFFFF, 0 0 20px #FFFFFF, 0 0 30px #FFFFFF, 0 0 40px #FFFFFF`
+
 
 ---
 
