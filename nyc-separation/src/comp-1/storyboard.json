@@ -1,0 +1,31 @@
+{
+  "cameraKeyframes": [
+    {
+      "_comment": "Scene 1: Static World Map",
+      "frame": 0,
+      "center": [-98.5795, 39.8283],
+      "zoom": 1,
+      "pitch": 0,
+      "bearing": 0,
+      "easing": "linear"
+    },
+    {
+      "_comment": "Scene 3: US zoom out",
+      "frame": 67,
+      "center": [-75.5417847, 26.3368394],
+      "zoom": 3.5,
+      "pitch": 0,
+      "bearing": 0,
+      "easing": "quadInOut"
+    },
+    {
+      "_comment": "Scene 3: Zoom in on New York",
+      "frame": 109,
+      "center": [-75.7099602, 43.0731352],
+      "zoom": 5,
+      "pitch": 10,
+      "bearing": -10,
+      "easing": "quadInOut"
+    }
+  ]
+}

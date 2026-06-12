@@ -42,7 +42,7 @@ export const Comp1: React.FC = () => {
 
     const mapInstance = new maplibregl.Map({
       container: mapContainer.current,
-      style: PRE_RENDER_MODE ? {
+      style: {
         version: 8,
         sources: {
           "esri-raster": {
@@ -163,7 +163,7 @@ export const Comp1: React.FC = () => {
             },
           },
         ],
-      } : { version: 8, sources: {}, layers: [] },
+      },
       center: storyboard.cameraKeyframes[0].center as [number, number],
       zoom: storyboard.cameraKeyframes[0].zoom,
       pitch: storyboard.cameraKeyframes[0].pitch,
@@ -268,13 +268,7 @@ export const Comp1: React.FC = () => {
 
   return (
     <AbsoluteFill style={{ backgroundColor: isBlackScreen ? "black" : "transparent" }}>
-      {/* PRE-RENDERED VIDEO BACKGROUND */}
-      {!PRE_RENDER_MODE && (
-        <OffthreadVideo
-          src={staticFile("most-muslims-map.mp4")}
-          style={{ position: "absolute", width: "100%", height: "100%", zIndex: 0, objectFit: "cover", opacity: isBlackScreen ? 0 : 1 }}
-        />
-      )}
+      {/* PRE-RENDERED VIDEO BACKGROUND (Disabled for single pass render) */}
 
       {/* BACKGROUND MAPS */}
       <Sequence from={0} durationInFrames={1600} name="Maps">
@@ -284,7 +278,7 @@ export const Comp1: React.FC = () => {
             position: "absolute", 
             width: `${width}px`, 
             height: `${height}px`,
-            opacity: PRE_RENDER_MODE ? (isBlackScreen ? 0 : 1) : 0,
+            opacity: isBlackScreen ? 0 : 1,
             visibility: "visible",
             zIndex: 0,
             pointerEvents: "none"

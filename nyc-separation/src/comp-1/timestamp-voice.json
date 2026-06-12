@@ -1,0 +1,1114 @@
+{
+  "audio_file": "voice.mp3",
+  "fps": 30,
+  "words": [
+    {
+      "word": "What",
+      "start": 0.0,
+      "end": 0.22,
+      "frame_start": 0,
+      "frame_end": 7
+    },
+    {
+      "word": "if",
+      "start": 0.22,
+      "end": 0.4,
+      "frame_start": 7,
+      "frame_end": 12
+    },
+    {
+      "word": "New",
+      "start": 0.4,
+      "end": 0.58,
+      "frame_start": 12,
+      "frame_end": 17
+    },
+    {
+      "word": "York",
+      "start": 0.58,
+      "end": 0.88,
+      "frame_start": 17,
+      "frame_end": 26
+    },
+    {
+      "word": "was",
+      "start": 0.88,
+      "end": 1.1,
+      "frame_start": 26,
+      "frame_end": 33
+    },
+    {
+      "word": "its",
+      "start": 1.1,
+      "end": 1.24,
+      "frame_start": 33,
+      "frame_end": 37
+    },
+    {
+      "word": "own",
+      "start": 1.24,
+      "end": 1.44,
+      "frame_start": 37,
+      "frame_end": 43
+    },
+    {
+      "word": "country?",
+      "start": 1.44,
+      "end": 1.84,
+      "frame_start": 43,
+      "frame_end": 55
+    },
+    {
+      "word": "Well,",
+      "start": 1.92,
+      "end": 2.08,
+      "frame_start": 58,
+      "frame_end": 62
+    },
+    {
+      "word": "if",
+      "start": 2.22,
+      "end": 2.32,
+      "frame_start": 67,
+      "frame_end": 70
+    },
+    {
+      "word": "New",
+      "start": 2.32,
+      "end": 2.46,
+      "frame_start": 70,
+      "frame_end": 74
+    },
+    {
+      "word": "York",
+      "start": 2.46,
+      "end": 2.68,
+      "frame_start": 74,
+      "frame_end": 80
+    },
+    {
+      "word": "suddenly",
+      "start": 2.68,
+      "end": 3.02,
+      "frame_start": 80,
+      "frame_end": 91
+    },
+    {
+      "word": "decided",
+      "start": 3.02,
+      "end": 3.44,
+      "frame_start": 91,
+      "frame_end": 103
+    },
+    {
+      "word": "to",
+      "start": 3.44,
+      "end": 3.64,
+      "frame_start": 103,
+      "frame_end": 109
+    },
+    {
+      "word": "break",
+      "start": 3.64,
+      "end": 3.82,
+      "frame_start": 109,
+      "frame_end": 115
+    },
+    {
+      "word": "away",
+      "start": 3.82,
+      "end": 4.1,
+      "frame_start": 115,
+      "frame_end": 123
+    },
+    {
+      "word": "from",
+      "start": 4.1,
+      "end": 4.28,
+      "frame_start": 123,
+      "frame_end": 128
+    },
+    {
+      "word": "the",
+      "start": 4.28,
+      "end": 4.4,
+      "frame_start": 128,
+      "frame_end": 132
+    },
+    {
+      "word": "United",
+      "start": 4.4,
+      "end": 4.6,
+      "frame_start": 132,
+      "frame_end": 138
+    },
+    {
+      "word": "States",
+      "start": 4.6,
+      "end": 5.0,
+      "frame_start": 138,
+      "frame_end": 150
+    },
+    {
+      "word": "and",
+      "start": 5.0,
+      "end": 5.14,
+      "frame_start": 150,
+      "frame_end": 154
+    },
+    {
+      "word": "become",
+      "start": 5.14,
+      "end": 5.36,
+      "frame_start": 154,
+      "frame_end": 161
+    },
+    {
+      "word": "its",
+      "start": 5.36,
+      "end": 5.52,
+      "frame_start": 161,
+      "frame_end": 166
+    },
+    {
+      "word": "own",
+      "start": 5.52,
+      "end": 5.68,
+      "frame_start": 166,
+      "frame_end": 170
+    },
+    {
+      "word": "country,",
+      "start": 5.68,
+      "end": 6.06,
+      "frame_start": 170,
+      "frame_end": 182
+    },
+    {
+      "word": "Zoran",
+      "start": 6.32,
+      "end": 6.7,
+      "frame_start": 190,
+      "frame_end": 201
+    },
+    {
+      "word": "Mamdani",
+      "start": 6.7,
+      "end": 7.12,
+      "frame_start": 201,
+      "frame_end": 214
+    },
+    {
+      "word": "would",
+      "start": 7.12,
+      "end": 7.34,
+      "frame_start": 214,
+      "frame_end": 220
+    },
+    {
+      "word": "instantly",
+      "start": 7.34,
+      "end": 7.7,
+      "frame_start": 220,
+      "frame_end": 231
+    },
+    {
+      "word": "become",
+      "start": 7.7,
+      "end": 8.12,
+      "frame_start": 231,
+      "frame_end": 244
+    },
+    {
+      "word": "president",
+      "start": 8.12,
+      "end": 8.54,
+      "frame_start": 244,
+      "frame_end": 256
+    },
+    {
+      "word": "of",
+      "start": 8.54,
+      "end": 8.78,
+      "frame_start": 256,
+      "frame_end": 263
+    },
+    {
+      "word": "one",
+      "start": 8.78,
+      "end": 8.9,
+      "frame_start": 263,
+      "frame_end": 267
+    },
+    {
+      "word": "of",
+      "start": 8.9,
+      "end": 9.0,
+      "frame_start": 267,
+      "frame_end": 270
+    },
+    {
+      "word": "the",
+      "start": 9.0,
+      "end": 9.14,
+      "frame_start": 270,
+      "frame_end": 274
+    },
+    {
+      "word": "richest",
+      "start": 9.14,
+      "end": 9.36,
+      "frame_start": 274,
+      "frame_end": 281
+    },
+    {
+      "word": "countries",
+      "start": 9.36,
+      "end": 9.82,
+      "frame_start": 281,
+      "frame_end": 295
+    },
+    {
+      "word": "in",
+      "start": 9.82,
+      "end": 10.02,
+      "frame_start": 295,
+      "frame_end": 301
+    },
+    {
+      "word": "the",
+      "start": 10.02,
+      "end": 10.12,
+      "frame_start": 301,
+      "frame_end": 304
+    },
+    {
+      "word": "entire",
+      "start": 10.12,
+      "end": 10.48,
+      "frame_start": 304,
+      "frame_end": 314
+    },
+    {
+      "word": "world.",
+      "start": 10.48,
+      "end": 10.84,
+      "frame_start": 314,
+      "frame_end": 325
+    },
+    {
+      "word": "If",
+      "start": 10.96,
+      "end": 11.04,
+      "frame_start": 329,
+      "frame_end": 331
+    },
+    {
+      "word": "we",
+      "start": 11.04,
+      "end": 11.16,
+      "frame_start": 331,
+      "frame_end": 335
+    },
+    {
+      "word": "take",
+      "start": 11.16,
+      "end": 11.34,
+      "frame_start": 335,
+      "frame_end": 340
+    },
+    {
+      "word": "a",
+      "start": 11.34,
+      "end": 11.5,
+      "frame_start": 340,
+      "frame_end": 345
+    },
+    {
+      "word": "look",
+      "start": 11.5,
+      "end": 11.58,
+      "frame_start": 345,
+      "frame_end": 347
+    },
+    {
+      "word": "at",
+      "start": 11.58,
+      "end": 11.74,
+      "frame_start": 347,
+      "frame_end": 352
+    },
+    {
+      "word": "its",
+      "start": 11.74,
+      "end": 11.86,
+      "frame_start": 352,
+      "frame_end": 356
+    },
+    {
+      "word": "economy,",
+      "start": 11.86,
+      "end": 12.24,
+      "frame_start": 356,
+      "frame_end": 367
+    },
+    {
+      "word": "we",
+      "start": 12.48,
+      "end": 12.54,
+      "frame_start": 374,
+      "frame_end": 376
+    },
+    {
+      "word": "can",
+      "start": 12.54,
+      "end": 12.68,
+      "frame_start": 376,
+      "frame_end": 380
+    },
+    {
+      "word": "see",
+      "start": 12.68,
+      "end": 12.86,
+      "frame_start": 380,
+      "frame_end": 386
+    },
+    {
+      "word": "that",
+      "start": 12.86,
+      "end": 13.02,
+      "frame_start": 386,
+      "frame_end": 391
+    },
+    {
+      "word": "it",
+      "start": 13.02,
+      "end": 13.1,
+      "frame_start": 391,
+      "frame_end": 393
+    },
+    {
+      "word": "would",
+      "start": 13.1,
+      "end": 13.2,
+      "frame_start": 393,
+      "frame_end": 396
+    },
+    {
+      "word": "have",
+      "start": 13.2,
+      "end": 13.38,
+      "frame_start": 396,
+      "frame_end": 401
+    },
+    {
+      "word": "a",
+      "start": 13.38,
+      "end": 13.48,
+      "frame_start": 401,
+      "frame_end": 404
+    },
+    {
+      "word": "GDP",
+      "start": 13.48,
+      "end": 13.78,
+      "frame_start": 404,
+      "frame_end": 413
+    },
+    {
+      "word": "of",
+      "start": 13.78,
+      "end": 14.2,
+      "frame_start": 413,
+      "frame_end": 426
+    },
+    {
+      "word": "roughly",
+      "start": 14.2,
+      "end": 14.46,
+      "frame_start": 426,
+      "frame_end": 434
+    },
+    {
+      "word": "$2.3 trillion.",
+      "start": 14.46,
+      "end": 15.84,
+      "frame_start": 434,
+     "frame_end": 475
+    },
+   
+    {
+      "word": "This",
+      "start": 16.7,
+      "end": 16.96,
+      "frame_start": 501,
+      "frame_end": 509
+    },
+    {
+      "word": "amount",
+      "start": 16.96,
+      "end": 17.22,
+      "frame_start": 509,
+      "frame_end": 517
+    },
+    {
+      "word": "of",
+      "start": 17.22,
+      "end": 17.34,
+      "frame_start": 517,
+      "frame_end": 520
+    },
+    {
+      "word": "money",
+      "start": 17.34,
+      "end": 17.52,
+      "frame_start": 520,
+      "frame_end": 526
+    },
+    {
+      "word": "would",
+      "start": 17.52,
+      "end": 17.72,
+      "frame_start": 526,
+      "frame_end": 532
+    },
+    {
+      "word": "make",
+      "start": 17.72,
+      "end": 17.9,
+      "frame_start": 532,
+      "frame_end": 537
+    },
+    {
+      "word": "the",
+      "start": 17.9,
+      "end": 18.06,
+      "frame_start": 537,
+      "frame_end": 542
+    },
+    {
+      "word": "country",
+      "start": 18.06,
+      "end": 18.32,
+      "frame_start": 542,
+      "frame_end": 550
+    },
+    {
+      "word": "richer",
+      "start": 18.32,
+      "end": 18.66,
+      "frame_start": 550,
+      "frame_end": 560
+    },
+    {
+      "word": "than",
+      "start": 18.66,
+      "end": 18.88,
+      "frame_start": 560,
+      "frame_end": 566
+    },
+    {
+      "word": "countries",
+      "start": 18.88,
+      "end": 19.18,
+      "frame_start": 566,
+      "frame_end": 575
+    },
+    {
+      "word": "like",
+      "start": 19.18,
+      "end": 19.48,
+      "frame_start": 575,
+      "frame_end": 584
+    },
+    {
+      "word": "Canada",
+      "start": 19.48,
+      "end": 19.86,
+      "frame_start": 584,
+      "frame_end": 596
+    },
+    {
+      "word": "and",
+      "start": 19.86,
+      "end": 20.1,
+      "frame_start": 596,
+      "frame_end": 603
+    },
+    {
+      "word": "South",
+      "start": 20.1,
+      "end": 20.32,
+      "frame_start": 603,
+      "frame_end": 610
+    },
+    {
+      "word": "Korea,",
+      "start": 20.32,
+      "end": 20.74,
+      "frame_start": 610,
+      "frame_end": 622
+    },
+    {
+      "word": "while",
+      "start": 20.94,
+      "end": 21.06,
+      "frame_start": 628,
+      "frame_end": 632
+    },
+    {
+      "word": "still",
+      "start": 21.06,
+      "end": 21.36,
+      "frame_start": 632,
+      "frame_end": 641
+    },
+    {
+      "word": "remaining",
+      "start": 21.36,
+      "end": 21.74,
+      "frame_start": 641,
+      "frame_end": 652
+    },
+    {
+      "word": "behind",
+      "start": 21.74,
+      "end": 22.14,
+      "frame_start": 652,
+      "frame_end": 664
+    },
+    {
+      "word": "India.",
+      "start": 22.14,
+      "end": 22.62,
+      "frame_start": 664,
+      "frame_end": 679
+    },
+    {
+      "word": "It",
+      "start": 22.84,
+      "end": 22.92,
+      "frame_start": 685,
+      "frame_end": 688
+    },
+    {
+      "word": "would",
+      "start": 22.92,
+      "end": 23.04,
+      "frame_start": 688,
+      "frame_end": 691
+    },
+    {
+      "word": "have",
+      "start": 23.04,
+      "end": 23.22,
+      "frame_start": 691,
+      "frame_end": 697
+    },
+    {
+      "word": "a",
+      "start": 23.22,
+      "end": 23.32,
+      "frame_start": 697,
+      "frame_end": 700
+    },
+    {
+      "word": "population",
+      "start": 23.32,
+      "end": 23.64,
+      "frame_start": 700,
+      "frame_end": 709
+    },
+    {
+      "word": "of",
+      "start": 23.64,
+      "end": 24.02,
+      "frame_start": 709,
+      "frame_end": 721
+    },
+    {
+      "word": "almost",
+      "start": 24.02,
+      "end": 24.24,
+      "frame_start": 721,
+      "frame_end": 727
+    },
+    {
+      "word": "20 million",
+      "start": 24.24,
+      "end": 25.08,
+      "frame_start": 727,
+      "frame_end": 752
+    },
+   
+    {
+      "word": "people,",
+      "start": 25.08,
+      "end": 25.5,
+      "frame_start": 752,
+      "frame_end": 765
+    },
+    {
+      "word": "which",
+      "start": 25.66,
+      "end": 25.82,
+      "frame_start": 770,
+      "frame_end": 775
+    },
+    {
+      "word": "means",
+      "start": 25.82,
+      "end": 26.02,
+      "frame_start": 775,
+      "frame_end": 781
+    },
+    {
+      "word": "that",
+      "start": 26.02,
+      "end": 26.24,
+      "frame_start": 781,
+      "frame_end": 787
+    },
+    {
+      "word": "it",
+      "start": 26.24,
+      "end": 26.32,
+      "frame_start": 787,
+      "frame_end": 790
+    },
+    {
+      "word": "would",
+      "start": 26.32,
+      "end": 26.38,
+      "frame_start": 790,
+      "frame_end": 791
+    },
+    {
+      "word": "have",
+      "start": 26.38,
+      "end": 26.58,
+      "frame_start": 791,
+      "frame_end": 797
+    },
+    {
+      "word": "more",
+      "start": 26.58,
+      "end": 26.82,
+      "frame_start": 797,
+      "frame_end": 805
+    },
+    {
+      "word": "people",
+      "start": 26.82,
+      "end": 27.1,
+      "frame_start": 805,
+      "frame_end": 813
+    },
+    {
+      "word": "living",
+      "start": 27.1,
+      "end": 27.36,
+      "frame_start": 813,
+      "frame_end": 821
+    },
+    {
+      "word": "in",
+      "start": 27.36,
+      "end": 27.56,
+      "frame_start": 821,
+      "frame_end": 827
+    },
+    {
+      "word": "it",
+      "start": 27.56,
+      "end": 27.7,
+      "frame_start": 827,
+      "frame_end": 831
+    },
+    {
+      "word": "than",
+      "start": 27.7,
+      "end": 27.82,
+      "frame_start": 831,
+      "frame_end": 835
+    },
+    {
+      "word": "countries",
+      "start": 27.82,
+      "end": 28.14,
+      "frame_start": 835,
+      "frame_end": 844
+    },
+    {
+      "word": "such",
+      "start": 28.14,
+      "end": 28.42,
+      "frame_start": 844,
+      "frame_end": 853
+    },
+    {
+      "word": "as",
+      "start": 28.42,
+      "end": 28.56,
+      "frame_start": 853,
+      "frame_end": 857
+    },
+    {
+      "word": "Israel.",
+      "start": 28.56,
+      "end": 28.88,
+      "frame_start": 857,
+      "frame_end": 866
+    },
+    {
+      "word": "Finally,",
+      "start": 28.88,
+      "end": 29.44,
+      "frame_start": 866,
+      "frame_end": 883
+    },
+    {
+      "word": "its",
+      "start": 29.66,
+      "end": 29.74,
+      "frame_start": 890,
+      "frame_end": 892
+    },
+    {
+      "word": "military",
+      "start": 29.74,
+      "end": 30.22,
+      "frame_start": 892,
+      "frame_end": 907
+    },
+    {
+      "word": "would",
+      "start": 30.22,
+      "end": 30.44,
+      "frame_start": 907,
+      "frame_end": 913
+    },
+    {
+      "word": "be",
+      "start": 30.44,
+      "end": 30.58,
+      "frame_start": 913,
+      "frame_end": 917
+    },
+    {
+      "word": "quite",
+      "start": 30.58,
+      "end": 30.86,
+      "frame_start": 917,
+      "frame_end": 926
+    },
+    {
+      "word": "small",
+      "start": 30.86,
+      "end": 31.2,
+      "frame_start": 926,
+      "frame_end": 936
+    },
+    {
+      "word": "at",
+      "start": 31.2,
+      "end": 31.38,
+      "frame_start": 936,
+      "frame_end": 941
+    },
+    {
+      "word": "first,",
+      "start": 31.38,
+      "end": 31.64,
+      "frame_start": 941,
+      "frame_end": 949
+    },
+    {
+      "word": "since",
+      "start": 31.82,
+      "end": 31.94,
+      "frame_start": 955,
+      "frame_end": 958
+    },
+    {
+      "word": "New",
+      "start": 31.94,
+      "end": 32.18,
+      "frame_start": 958,
+      "frame_end": 965
+    },
+    {
+      "word": "York",
+      "start": 32.18,
+      "end": 32.36,
+      "frame_start": 965,
+      "frame_end": 971
+    },
+    {
+      "word": "does",
+      "start": 32.36,
+      "end": 32.56,
+      "frame_start": 971,
+      "frame_end": 977
+    },
+    {
+      "word": "not",
+      "start": 32.56,
+      "end": 32.76,
+      "frame_start": 977,
+      "frame_end": 983
+    },
+    {
+      "word": "have",
+      "start": 32.76,
+      "end": 32.94,
+      "frame_start": 983,
+      "frame_end": 988
+    },
+    {
+      "word": "its",
+      "start": 32.94,
+      "end": 33.1,
+      "frame_start": 988,
+      "frame_end": 993
+    },
+    {
+      "word": "own",
+      "start": 33.1,
+      "end": 33.26,
+      "frame_start": 993,
+      "frame_end": 998
+    },
+    {
+      "word": "independent",
+      "start": 33.26,
+      "end": 33.64,
+      "frame_start": 998,
+      "frame_end": 1009
+    },
+    {
+      "word": "armed",
+      "start": 33.64,
+      "end": 34.0,
+      "frame_start": 1009,
+      "frame_end": 1020
+    },
+    {
+      "word": "forces.",
+      "start": 34.0,
+      "end": 34.48,
+      "frame_start": 1020,
+      "frame_end": 1034
+    },
+    {
+      "word": "However,",
+      "start": 34.78,
+      "end": 35.06,
+      "frame_start": 1043,
+      "frame_end": 1052
+    },
+    {
+      "word": "if",
+      "start": 35.22,
+      "end": 35.32,
+      "frame_start": 1057,
+      "frame_end": 1060
+    },
+    {
+      "word": "it",
+      "start": 35.32,
+      "end": 35.42,
+      "frame_start": 1060,
+      "frame_end": 1063
+    },
+    {
+      "word": "created",
+      "start": 35.42,
+      "end": 35.86,
+      "frame_start": 1063,
+      "frame_end": 1076
+    },
+    {
+      "word": "a",
+      "start": 35.86,
+      "end": 36.0,
+      "frame_start": 1076,
+      "frame_end": 1080
+    },
+    {
+      "word": "military",
+      "start": 36.0,
+      "end": 36.42,
+      "frame_start": 1080,
+      "frame_end": 1093
+    },
+    {
+      "word": "proportional",
+      "start": 36.42,
+      "end": 36.8,
+      "frame_start": 1093,
+      "frame_end": 1104
+    },
+    {
+      "word": "to",
+      "start": 36.8,
+      "end": 37.22,
+      "frame_start": 1104,
+      "frame_end": 1117
+    },
+    {
+      "word": "its",
+      "start": 37.22,
+      "end": 37.34,
+      "frame_start": 1117,
+      "frame_end": 1120
+    },
+    {
+      "word": "population,",
+      "start": 37.34,
+      "end": 37.94,
+      "frame_start": 1120,
+      "frame_end": 1138
+    },
+    {
+      "word": "it",
+      "start": 38.16,
+      "end": 38.24,
+      "frame_start": 1145,
+      "frame_end": 1147
+    },
+    {
+      "word": "could",
+      "start": 38.24,
+      "end": 38.36,
+      "frame_start": 1147,
+      "frame_end": 1151
+    },
+    {
+      "word": "eventually",
+      "start": 38.36,
+      "end": 38.72,
+      "frame_start": 1151,
+      "frame_end": 1162
+    },
+    {
+      "word": "win",
+      "start": 38.72,
+      "end": 39.06,
+      "frame_start": 1162,
+      "frame_end": 1172
+    },
+    {
+      "word": "against",
+      "start": 39.06,
+      "end": 39.32,
+      "frame_start": 1172,
+      "frame_end": 1180
+    },
+    {
+      "word": "countries",
+      "start": 39.32,
+      "end": 39.68,
+      "frame_start": 1180,
+      "frame_end": 1190
+    },
+    {
+      "word": "like",
+      "start": 39.68,
+      "end": 39.9,
+      "frame_start": 1190,
+      "frame_end": 1197
+    },
+    {
+      "word": "Canada.",
+      "start": 39.9,
+      "end": 40.32,
+      "frame_start": 1197,
+      "frame_end": 1210
+    },
+    {
+      "word": "Anyways,",
+      "start": 40.52,
+      "end": 40.8,
+      "frame_start": 1216,
+      "frame_end": 1224
+    },
+    {
+      "word": "if",
+      "start": 41.08,
+      "end": 41.16,
+      "frame_start": 1232,
+      "frame_end": 1235
+    },
+    {
+      "word": "you",
+      "start": 41.16,
+      "end": 41.26,
+      "frame_start": 1235,
+      "frame_end": 1238
+    },
+    {
+      "word": "learned",
+      "start": 41.26,
+      "end": 41.48,
+      "frame_start": 1238,
+      "frame_end": 1244
+    },
+    {
+      "word": "something,",
+      "start": 41.48,
+      "end": 41.84,
+      "frame_start": 1244,
+      "frame_end": 1255
+    },
+    {
+      "word": "make",
+      "start": 42.02,
+      "end": 42.14,
+      "frame_start": 1261,
+      "frame_end": 1264
+    },
+    {
+      "word": "sure",
+      "start": 42.14,
+      "end": 42.32,
+      "frame_start": 1264,
+      "frame_end": 1270
+    },
+    {
+      "word": "to",
+      "start": 42.32,
+      "end": 42.4,
+      "frame_start": 1270,
+      "frame_end": 1272
+    },
+    {
+      "word": "hit",
+      "start": 42.4,
+      "end": 42.52,
+      "frame_start": 1272,
+      "frame_end": 1276
+    },
+    {
+      "word": "the",
+      "start": 42.52,
+      "end": 42.64,
+      "frame_start": 1276,
+      "frame_end": 1279
+    },
+    {
+      "word": "red",
+      "start": 42.64,
+      "end": 42.8,
+      "frame_start": 1279,
+      "frame_end": 1284
+    },
+    {
+      "word": "button.",
+      "start": 42.8,
+      "end": 43.12,
+      "frame_start": 1284,
+      "frame_end": 1294
+    }
+  ]
+}
